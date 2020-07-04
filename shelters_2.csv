@@ -24,7 +24,7 @@
 22,Olympic Community Action Programs Port Townsend Washington,"823 Commerce Loop Port Townsend, Washington 98368",48.10550689697,-122.804794311523
 23,"Anne Arundel County Department of Social Services, Homeless Services Annapolis Maryland","80 West Street Annapolis, Maryland 21401",38.97820282000,-76.495910600000
 24,Light House - Homeless Prevention Support Annapolis Maryland,"10 Hudson St Annapolis, Maryland 21401",38.98413000000,-76.533790000000
-25,YWCA of Annapolis and Anne Arundel County Domestic Violence Shelter Arnold Maryland,1517 Ritchie Highway ,39.03205490000,-76.502738900000
+25,YWCA of Annapolis and Anne Arundel County Domestic Violence Shelter Arnold Maryland,"1517 Ritchie Highway Arnold, Maryland 21012",39.03205490000,-76.502738900000
 26,Chrysalis House Women's Treatment Center Crownsville Maryland,"1570 Crownsville Rd Crownsville, Maryland 21032",39.01967620850,-76.597953796387
 27,Haven Ministries Chester Maryland,"PO Box 44 Chester, Maryland 21619",38.95231246948,-76.282669067383
 28,Winter Relief for the Homeless Arundel House of Hope Glen Burnie Maryland,"511 S. Crain Highway Glen Burnie, Maryland 21061",39.15695953369,-76.629081726074
@@ -35,11 +35,11 @@
 33,Family Crisis Center Dundalk Maryland,"P. O. Box 3909 Dundalk, Maryland 21222",39.25066330000,-76.520518000000
 34,Laurel Advocacy & Referral Services Laurel Maryland,"311 Laurel Avenue Laurel, Maryland 20707",39.10188293000,-76.847526500000
 35,American Rescue Workers Baltimore Maryland,"1401 South Hanover Street Baltimore, Maryland 21230",39.27361679000,-76.614791800000
-36,South Baltimore Station Baltimore Maryland,"140 W. West Street Baltimore, Maryland ",39.27618420000,-76.618445900000
-37,Baltimore Outreach Services Emergency Shelter  Baltimore Maryland,"701 South Charles Street Baltimore, Maryland ",39.28074646000,-76.614456100000
+36,South Baltimore Station Baltimore Maryland,"140 W. West Street Baltimore, Maryland 21230",39.27618420000,-76.618445900000
+37,Baltimore Outreach Services Emergency Shelter  Baltimore Maryland,"701 South Charles Street Baltimore, Maryland 21230",39.28074646000,-76.614456100000
 38,Beans and Bread Outreach Center Baltimore Maryland,"400 S. Bond Street Baltimore, Maryland 21231",39.28629600000,-76.595761000000
 39,Bridges To Housing Stability - Family Housing Assistance Columbia Maryland,"9520 Berger Road, Suite 311 Columbia, Maryland 21046",39.17452620000,-76.842040900000
-40,Helping Up Mission Baltimore Maryland,"1029 East Baltimore St Baltimore, Maryland ",39.29041610000,-76.602077000000
+40,Helping Up Mission Baltimore Maryland,"1029 East Baltimore St Baltimore, Maryland 21202",39.29041610000,-76.602077000000
 41,Karis Home Baltimore Maryland,"1228 E. Baltimore Street Baltimore, Maryland 21202",39.29143524000,-76.600036600000
 42,Baltimore Rescue Mission Baltimore Maryland,"4 N Central Ave Baltimore, Maryland 21202",39.29175710000,-76.599901100000
 43,"Helping Other People through Empowerment, Inc. Baltimore Maryland","1426 E. Fairmount Avenue Baltimore, Maryland 21231",39.29225540161,-76.597595214844
@@ -79,10 +79,10 @@
 77,Fresh Start Housing of Washington Mukilteo Washington,"10924 Mukilteo Speedway, 230 Mukilteo, Washington 98275",47.89860916000,-122.291946000000
 78,Arcadia Shelter Auburn Washington,"702 10th St Ne Auburn, Washington 98002",47.31666190000,-122.223575000000
 79,Multi-Service Center & Shelter Federal Way Washington,"1200 S 336th St. Federal Way, Washington 98003",47.30083847000,-122.318054000000
-80,Federal Way Day Center Federal Way ,"33505 13th Ave S #D Federal Way,  98093",47.31696960000,-122.316660000000
+80,Federal Way Day Center Federal Way ,"33505 13th Ave S #D Federal Way, Washington 98093",47.31696960000,-122.316660000000
 81,REACH OUT Homeless Winter Shelter Program Kent Washington,"1229 W Smith St Kent, Washington 98032",47.38319000000,-122.249200000000
 82,Home Program Kent WA Kent Washington,"1229 W Smith St Kent, Washington 98032",47.38323490000,-122.249251000000
-83,ARISE Shelter Kent Kent ,"1229 W Smith St Kent,  98032",47.38325200000,-122.249307000000
+83,ARISE Shelter Kent Kent ,"1229 W Smith St Kent, Washington 98032",47.38325200000,-122.249307000000
 84,MDC - Housing For Homeless Tacoma Washington,"721 South Fawcett  Tacoma, Washington 98402",47.25655746460,-122.443099975586
 85,Nativity House Day Shelter Tacoma Washington,"702 S 14th Street Tacoma, Washington 98405",47.24926800000,-122.446168000000
 86,Tacoma Rescue Mission Tacoma Washington,"425 South Tacoma Way Tacoma, Washington 98402",47.23569460000,-122.439133900000
@@ -97,7 +97,7 @@
 95,Salvation Army William Booth Center Seattle Washington,"811 Maynard Ave. S. Seattle, Washington 98134",47.59560394000,-122.325202000000
 96,Seattle Indian Center Seattle Washington,"1265 S. Main St. Seattle, Washington 98144",47.59969711000,-122.314498000000
 97,Seattle's Union Gospel Mission - Shelter for Men Seattle Washington,"318 - 2nd Avenue Extension South Seattle, Washington 98104",47.59975815000,-122.329971000000
-98,"Mamma's Hands, House of Hope Bellevue ","po box 40464 Bellevue,  98015",47.61014970000,-122.201515000000
+98,"Mamma's Hands, House of Hope Bellevue ","po box 40464 Bellevue, Washington 98015",47.61014970000,-122.201515000000
 99,Downtown Emergency Service Center - DESC Seatle Seattle Washington,"515 3rd Ave S Seattle, Washington 98104",47.60023910000,-122.330391000000
 100,Bread of Life Mission Seattle Washington,"97 South Main St Seattle, Washington 98194",47.60004044000,-122.334297000000
 101,Compass Center - Compass Housing Alliance  Seattle Washington,"77 S Washington St Seattle, Washington 98104",47.60071182000,-122.335281000000
@@ -194,7 +194,7 @@
 192,Carpenter's Shelter Alexandria Virginia,"5701-D Duke Street Alexandria, Virginia 22304",38.81664400000,-77.130617000000
 193,Doorways for Women and Families Arlington Virginia,"4600 Fairfax Dr Arlington, Virginia 22210",38.88107200000,-77.117104000000
 194,Bailey's Crossroads Community Shelter Falls Church Virginia,"3525 Moncure Avenue Falls Church, Virginia 22041",38.84793472000,-77.133331300000
-195,Community Vision of Interfaith Works Silver Spring Maryland,8210 Dixon Avenue ,38.97974014000,-77.004623400000
+195,Community Vision of Interfaith Works Silver Spring Maryland,"8210 Dixon Avenue Silver Spring, Maryland 20910",38.97974014000,-77.004623400000
 196,Shepherd’s Table Silver Spring Maryland,"8106 Georgia Ave Silver Spring, Maryland 20910",38.99083490000,-77.027591000000
 197,Homestretch Falls Church Virginia,"303 S Maple Ave Falls Church, Virginia 22406",38.88074500000,-77.174786000000
 198,Bethesda Cares Day Shelter Bethesda Maryland,"7728 Woodmont Avenue Bethesda, Maryland 20814",38.98743439000,-77.096000600000
@@ -233,7 +233,7 @@
 231,The Father's Heart Ministry Day Shelter Oregon City Oregon,"603 12th Street Oregon City, Oregon 97045",45.35992000000,-122.601060000000
 232,Clackamas Women's Services Oregon City Oregon,"not disclosed Oregon City, Oregon 97045",45.35734176636,-122.606758117676
 233,Community Action Family Shelter Hillsboro Oregon,"210 South East 12th Ave Hillsboro, Oregon 97214",45.52091217000,-122.969718000000
-234,Family Promise Washington County Oregon Hillsboro ,"P O Box 4073 Hillsboro,  97123",45.52289390000,-122.989827000000
+234,Family Promise Washington County Oregon Hillsboro ,"P O Box 4073 Hillsboro, Oregon 97123",45.52289390000,-122.989827000000
 235,Walla Walla Rescue Mission Walla Walla Washington,"202 W. Birch St Walla Walla, Washington 99362",46.06325912476,-118.340347290039
 236,Forest Grove Temporary Emergency Shelter Forest Grove Oregon,"2032 College Way Forest Grove, Oregon 97116",45.52059070000,-123.111499000000
 237,Warming Center Bozeman Montana,"2104 Industrial Ave Bozeman, Montana 59715",45.70050811768,-111.033126831055
@@ -281,7 +281,7 @@
 279,Norfolk Rescue Mission Norfolk Nebraska,"111 North 9th Street Norfolk, Nebraska 68701",42.03356000000,-97.419530000000
 280,The Connection Homeless Shelter North Platte Nebraska,"414 E. 6th. St. North Platte, Nebraska 69101",41.13780212000,-100.758567000000
 281,Sioux City Gospel Mission Sioux City Iowa,"415 Bluff St Sioux City, Iowa 51103",42.49716949463,-96.413322448730
-282,The Warming Shelter Sioux City Sioux City ,"916 Nebraska Street Sioux City,  51105",42.50015720000,-96.403544000000
+282,The Warming Shelter Sioux City Sioux City ,"916 Nebraska Street Sioux City, Iowa 51105",42.50015720000,-96.403544000000
 283,Shesler Hall Transitional Housing For Women Sioux City Iowa,"1308 Nebraska Street Sioux City, Iowa 51105",42.50445667000,-96.403278330000
 284,Crossroads Homeless Shelter Sioux City Iowa,"1307 Court St Sioux City, Iowa 51105",42.50411224000,-96.396492000000
 285,Sicangu Oyate Tipi Homeless Shelter Rosebud  South Dakota,"PO Box 188 Rosebud , South Dakota 57570",43.25827026367,-100.822570800781
@@ -299,7 +299,7 @@
 297,Interfaith Sanctuary Shelter Boise Idaho,"1620 W. River Street Boise, Idaho 83702",43.61868920000,-116.216748000000
 298,Boise Rescue Mission - Ministry Center Boise Idaho,"308 S. 24th St.  Boise, Idaho 83702",43.62009429932,-116.219291687012
 299,Salvation Army Housing and Homeless Services Boise Idaho,"4306 W State Boise, Idaho 83703",43.64536400000,-116.241980000000
-300,Lighthouse Rescue Mission Nampa Idaho,"304 16th Ave. North Nampa, Idaho ",43.57980728000,-116.550247000000
+300,Lighthouse Rescue Mission Nampa Idaho,"304 16th Ave. North Nampa, Idaho 83687",43.57980728000,-116.550247000000
 301,The Salvation Army Family Shelter Nampa Idaho,"1412 4th St South Nampa, Idaho 83651",43.57521057000,-116.560020000000
 302,"Valley Women & Children's Shelter in Nampa, ID Nampa Idaho","869 W. Corporate Ln. Nampa, Idaho 83651",43.59568700000,-116.591508000000
 303,Hope's Door Caldwell Idaho,"1508 Hope Lane Caldwell, Idaho 83605",43.66293839000,-116.687350000000
@@ -324,7 +324,7 @@
 322,Community House Sylmar Sylmar California,"13770 Sayre Street Sylmar, California 91342",34.31042000000,-118.432870000000
 323,LAFH - Los Angeles Family Housing North Hollywood California,"7843 Lankershim Boulevard North Hollywood, California 91601",34.21358010000,-118.388142000000
 324,Bridge to Home Homeless Shelter Santa Clarita California,"23031 Drayton St. Santa Clarita, California 91355",34.41214970000,-118.537888000000
-325,SPIRIT of Santa Paula Drop In Center Santa Paula ,"113 N. Mill Santa Paula,  93060",34.35422000000,-119.061030000000
+325,SPIRIT of Santa Paula Drop In Center Santa Paula ,"113 N. Mill Santa Paula, California 93060",34.35422000000,-119.061030000000
 326,Kingdom Center  - Gabriel’s House Women's Shelter Oxnard California,"1450 S. Rose Avenue Oxnard, California 93033",34.18652990000,-119.159166100000
 327,Hope of the Valley Rescue Mission Sun Valley California,"8165 San Fernando Rd Sun Valley, California 91352",34.21864600000,-118.368856000000
 328,Family Promise of Santa Clarita Valley Canyon Country California,"18565 Soledad Canyon Road #133 Canyon Country, California 91351",34.41650009155,-118.456695556641
@@ -357,7 +357,7 @@
 355,St Joseph's Family Center - Catholic Charities San Francisco California,"899 Guerrero Street San Francisco, California 94110",37.75695419000,-122.423141000000
 356,Diamond Youth Shelter - Larkin Street Youth Services San Francisco California,"536 Central Avenue San Francisco, California 94117",37.77458954000,-122.444305000000
 357,Asian Women's Shelter (AWS) San Francisco California,"3543-18th Street, Suite 19 San Francisco, California 94110",37.72909927000,-122.443450000000
-358,Family Emergency Shelter Coalition (FESCO) Hayward ,"21455 Birch St #5 Hayward,  94541",37.68108280000,-122.093640900000
+358,Family Emergency Shelter Coalition (FESCO) Hayward ,"21455 Birch St #5 Hayward, California 94541",37.68108280000,-122.093640900000
 359,FESCO - The Family Shelter Hayward California,"21455 Birch Street Hayward, California 94541",37.68108280000,-122.093640000000
 360,South County Homeless Project Hayward California,"258 W A St Hayward, California 94541",37.66613680000,-122.103741000000
 361,"Eden I & R, Inc Hayward California","570 B St Hayward, California 94541",37.66999350000,-122.090101200000
@@ -405,7 +405,7 @@
 403,Family Promise of San Gabriel Valley San Gabriel California,"1005 E Las Tunas Dr. #525 San Gabriel, California 91776",34.10375000000,-118.085840000000
 404,Homeless Adult Center - Union Station  Pasadena California,"412 S. Raymond Avenue Pasadena, California 91105",34.13866806000,-118.148437000000
 405,Euclid Villa Transitional Apartments Pasadena California,"154 S. Euclid Avenue Pasadena, California 91101",34.14311981201,-118.142440795898
-406,A Meaningful Goal Housing Shelter Pasadena ,"Po Box 41213 Pasadena,  91114",34.14778490000,-118.144515000000
+406,A Meaningful Goal Housing Shelter Pasadena ,"Po Box 41213 Pasadena, California 91114",34.14778490000,-118.144515000000
 407,Centennial Place Permanent Housing Pasadena California,"235 E. Holly Street Pasadena, California 91101",34.14806747437,-118.145545959473
 408,Door of Hope Pasadena California,"P.O. Box 90455 Pasadena, California 91109",34.15526962280,-118.154258728030
 409,HPRP Pasadena Homeless Services Pasadena California,"649 N. Fair Oaks Ave. Pasadena, California 91103",34.15724182129,-118.150588989258
@@ -471,7 +471,7 @@
 469,The Good Seed - Long Beach Long Beach California,"1230 Pine Ave Long Beach, California 90813",33.78182200000,-118.192202000000
 470,Beyond Shelter - Homeless Services Long Beach California,"1301 W. 12th St. Long Beach, California 90813",33.78200531000,-118.209022000000
 471,Inland Valley Hope Partners - Our House Shelter   Pomona California,"1753 N. Park Pomona, California 91768",34.07725840000,-117.752845000000
-472,New Image Emergency Shelter Long Beach ,"401 E Ocean Blvd, Suite 202 Long Beach,  90802",33.76718521000,-118.187286000000
+472,New Image Emergency Shelter Long Beach ,"401 E Ocean Blvd, Suite 202 Long Beach, California 90802",33.76718521000,-118.187286000000
 473,Doors Of Hope Women's Shelter Wilmington California,"529 Broad Ave Wilmington, California 90744",33.77661895752,-118.260879516602
 474,Beacon Light Mission Wilmington California,"525 Broad Ave Wilmington, California 90744",33.77649689000,-118.261207000000
 475,Los Angeles Shelter for Homeless and Pregnant Women and Girls LOS ANGELES California,"145 E 935 SO LOS ANGELES, California 90024",33.77561500000,-118.262671000000
@@ -499,7 +499,7 @@
 497,Belinda's Place Lakeside California,"13221 Idyl Drive Lakeside, California 92040",32.84572982788,-116.908096313477
 498,East County Transitional Living Center El Cajon California,"1527 E Main St. El Cajon, California 92021",32.80461883545,-116.925430297852
 499,Anthony's House Spring Valley California,"10330 Elmdale Dr. Spring Valley, California 91977",32.71884155273,-116.976654052734
-500,Urban Street Angels at Mission Gathering Church San Diego ,"4090 Polk Street San Diego,  92104",32.75149900000,-117.107138300000
+500,Urban Street Angels at Mission Gathering Church San Diego ,"4090 Polk Street San Diego, California 92104",32.75149900000,-117.107138300000
 501,San Diego Residential Substance Abuse Recovery San Diego California,"3806 Grim Ave San Diego, California 92104",32.74758911000,-117.128349000000
 502,Residential Treatment Recovery Housing San Diego California,"3806 Grim Ave San Diego, California 92104",32.74758911133,-117.128349304199
 503,San Diego Maternity Shelter San Diego California,"5005 Texas Street, Suite 203 San Diego, California 92108",32.76655197000,-117.138946000000
@@ -514,7 +514,7 @@
 512,San Diego Rescue Mission Men's Center Long Term San Diego California,"120 Elm Street San Diego, California 92101",32.72416305542,-117.163566589356
 513,New Resolve Residential Program Transitional Substance Abuse Program Escondido California,"1207 South Escondido Boulevard Escondido, California 92025",33.11015701294,-117.077194213867
 514,Hidden Valley House  Escondido California,"not disclosed Escondido, California 92025",33.12691497800,-117.075057983000
-515,Merleâ€™s Place Transitional Housing San Diego California,"550 W. Washington Ave.,  # B San Diego, California ",33.12480100000,-117.091587200000
+515,Merleâ€™s Place Transitional Housing San Diego California,"550 W. Washington Ave.,  # B San Diego, California 92025",33.12480100000,-117.091587200000
 516,Inland Service Center Escondido California,"550 West Washington Ave Escondido, California 92025",33.12489319000,-117.091590000000
 517,Tikkun Home Temporary Emergency Shelter Women Escondido California,"550 West Washington Ave, Ste B Escondido, California 92025 ",33.12489318848,-117.091590881348
 518,Escondido Family Services Salvation Army Escondido California,"1301 Las Villas Way Escondido, California 92026",33.13785934448,-117.093841552734
@@ -638,7 +638,7 @@
 636,Mary Stuart Rogers Center - Shelter From The Storm Palm Desert California,"73-550 Alessandro Dr., Suite 103 Palm Desert, California 92260",33.72272200000,-116.379410000000
 637,Mama's House Palm Desert California,"PO Box 1816 Palm Desert, California 92260",33.69172668457,-116.407585144043
 638,Martha's Village & Kitchen Indio California,"83791 Date Ave Indio, California 92201",33.71035385000,-116.204498000000
-639,Coachella Valley Rescue Mission Indio ,"47470 Van Buren St Indio,  92201",33.70446370000,-116.198470000000
+639,Coachella Valley Rescue Mission Indio ,"47470 Van Buren St Indio, California 92201",33.70446370000,-116.198470000000
 640,Wallace House Cloverdale California,"126 North Main Street Cloverdale, California 95425",38.80702209000,-123.016311000000
 641,Modesto Gospel Mission Modesto California,"1400 Yosmite Blvd. Modesto, California 95353",37.63776398000,-120.972511000000
 642,Salvation Army Berberian Homeless Shelter and Transitional Living Center Modesto California,"320 Ninth Street Modesto, California 95351",37.63375854000,-120.993591000000
@@ -652,7 +652,7 @@
 650,Stockton Shelter for the Homeless Stockton California,"411 S. Harrison  Stockton, California 95203",37.94696426000,-121.297874000000
 651,Jesus Center Chico California,"1297 Park Ave Chico, California 95928",39.72350311000,-121.830276000000
 652,Torres Community Shelter Chico California,"101 Silver Dollar Way Chico, California 95928",39.72030640000,-121.809280000000
-653,The Celebration House  Paradise ,"101 Skyway Ave Paradise,  95969",39.75384970000,-121.628656000000
+653,The Celebration House  Paradise ,"101 Skyway Ave Paradise, California 95969",39.75384970000,-121.628656000000
 654,Oroville Rescue Mission Men's Shelter - Timothy House Oroville California,"4250 Lincoln Blvd. Oroville, California 95966",39.49141650000,-121.551205000000
 655,Oroville Rescue Mission Women's Shelter Oroville California,"4250 Lincoln Blvd Oroville, California 95966",39.49141650000,-121.551205000000
 656,Decision Home of Fresno Fresno California,"805 N. Echo Ave Fresno, California 93728",36.75336838000,-119.804367000000
@@ -720,17 +720,17 @@
 718,Redemption House Prineville Oregon,"780 E 1st street Prineville, Oregon 97754",44.30080795288,-120.838844299316
 719,Pendleton Warming Station Pendleton Oregon,"715 SE Court Ave Pendleton, Oregon 97801",45.67424290000,-118.782065000000
 720,Salvation Army Food Bags Henderson Henderson Nevada,"830 East Lake Mead Pkwy Henderson, Nevada 89015",36.05236000000,-114.968500000000
-721,Nevada Partnership For Homeless Youth Las Vegas Nevada,"4981 Shirley St Las Vegas, Nevada ",36.09958440000,-115.142790000000
+721,Nevada Partnership For Homeless Youth Las Vegas Nevada,"4981 Shirley St Las Vegas, Nevada 89119",36.09958440000,-115.142790000000
 722,"Innovative Concept Transitional Housing,Inc. Las Vegas Nevada","1601 Sandhill Road  Las Vegas, Nevada 89104",36.15370178223,-115.094551086426
 723,Women's Development Center Las Vegas Nevada,"953 E. Sahara, Suite 201 Las Vegas, Nevada ",36.14384460449,-115.142189025879
 724,Family Promise of Las Vegas Las Vegas Nevada,"1410 Maryland Parkway Las Vegas, Nevada 89104",36.16401672000,-115.138633000000
 725,Courtyard Homeless Resource Center Las Vegas Nevada,"1401 Las Vegas Blvd N Las Vegas, Nevada 89101",36.18558050000,-115.134581330000
 726,Catholic Charities Shelter for Men Las Vegas Las Vegas Nevada,"1502 Las Vegas Blvd North Las Vegas, Nevada 89101",36.18614195981,-115.134105712870
-727,Las Vegas Rescue Mission Las Vegas Nevada,"480 W Bonanza Rd Las Vegas, Nevada ",36.17740249634,-115.147743225098
+727,Las Vegas Rescue Mission Las Vegas Nevada,"480 W Bonanza Rd Las Vegas, Nevada 89106",36.17740249634,-115.147743225098
 728,The Shade Tree For Women North Las Vegas Nevada,"1 West Owens North Las Vegas, Nevada 89030",36.18812180000,-115.136756000000
 729,The Salvation Army Day Resource Center - Emergency Lodge North Las Vegas Nevada,"35 W. Owens Avenue North Las Vegas, Nevada 89030",36.18820953000,-115.140045000000
-730,Day Resource Center/ Emergency Lodge Las Vegas Nevada,"35 W. Owens Las Vegas, Nevada ",36.18820953000,-115.140045000000
-731,Safe Nest: Temporary Assistance for Domestic Crisis Las Vegas Nevada,"2915 W. Charleston Avenue Las Vegas, Nevada ",36.15874100000,-115.180633000000
+730,Day Resource Center/ Emergency Lodge Las Vegas Nevada,"35 W. Owens Las Vegas, Nevada 89030",36.18820953000,-115.140045000000
+731,Safe Nest: Temporary Assistance for Domestic Crisis Las Vegas Nevada,"2915 W. Charleston Avenue Las Vegas, Nevada 89102",36.15874100000,-115.180633000000
 732,God In Me Ministry Las Vegas  Nevada,"1824 Leonard Lane Las Vegas , Nevada 89108",36.19207001000,-115.209632000000
 733,Danielle House - Angels Power Ltd Las Vegas ,"600 Palmhurst Dr. Las Vegas,  89145",36.16572600000,-115.252093000000
 734,Crossroads Nogales Mission Nogales Arizona,"338 N. Morley Ave.  Nogales, Arizona 85621",31.33826280000,-110.936890000000
@@ -771,7 +771,7 @@
 769,Lodestar Day Resource Center Phoenix Arizona,"1125 W Jackson Phoenix, Arizona 85007",33.44499969000,-112.091842000000
 770,Terros Safe Haven Shelter Phoenix Arizona,"210 S.12th Ave Phoenix, Arizona 85007",33.43116379000,-112.067062000000
 771,Gift of Mary Womens Shelter  Phoenix Arizona,"1406 S 17th Ave Phoenix, Arizona 85007",33.43451691000,-112.095825000000
-772,St Francis Men's Shelter Tucson ,"601 E. Fort Lowell Rd. Tucson,  85705",32.26582000000,-110.962810000000
+772,St Francis Men's Shelter Tucson ,"601 E. Fort Lowell Rd. Tucson, Arizona 85705",32.26582000000,-110.962810000000
 773,Joshua House Transitional Housing Tucson Arizona,"3028 North Geronimo Avenue Tucson, Arizona 85705",32.26205826000,-110.965583000000
 774,Our Family Services Tucson Arizona,"2590 N Alvernon Way Tucson, Arizona 85712",32.25386900000,-110.909050000000
 775,Gospel Rescue Mission: Women's Recovery Center Tucson Arizona,"707 W. Miracle Mile Tucson, Arizona 85705",32.26069680000,-110.982940000000
@@ -829,39 +829,39 @@
 827,Richards Center Cheyenne Wyoming,"4700 Ocean Loop Cheyenne, Wyoming 82009",41.16102600098,-104.755447387695
 828,FATHER HUBBARD'S CUPBOARD Douglas Wyoming,"103 South 8th Street Douglas, Wyoming 82633",42.75888824463,-105.376518249512
 829,Waystation Gillette Wyoming,"115 Rohan Avenue Gillette, Wyoming 82716",44.29492187500,-105.512458801270
-830,CHRYSALIS HOUSE Pine Bluffs Wyoming," Pine Bluffs, Wyoming ",41.18381881714,-104.067756652832
+830,CHRYSALIS HOUSE Pine Bluffs Wyoming," Pine Bluffs, Wyoming 82082",41.18381881714,-104.067756652832
 831,Bell Park Tower Sheridan Wyoming,"1309 Coffeen Ave, Suite A Sheridan, Wyoming 82801",44.78374481201,-106.942428588867
 832,Sheriden Community Shelter Sheridan Wyoming,"1898 Fort Road, Building 24 Sheridan, Wyoming 82801",44.82715606689,-106.987365722656
 833,La Puente Home Shelter Alamosa Colorado,"913 State Ave Alamosa, Colorado 81101",37.46325684000,-105.865669000000
 834,Aspen Homeless Shelter Aspen  Colorado,"P.O. Box 2050 Aspen , Colorado 81612",39.18999862671,-106.819999694824
 835,Comitis Crisis Center Aurora Colorado,"2178 Victor Street Aurora, Colorado 80045",39.74823380000,-104.832885000000
-836,HOPE Program - HIV Day Shelter Denver ,"1555 Race St Denver,  80206",39.74101700000,-104.963803000000
+836,HOPE Program - HIV Day Shelter Denver ,"1555 Race St Denver, Colorado 80206",39.74101700000,-104.963803000000
 837,The Gathering Place Denver Colorado,"1535 High Street Denver, Colorado 80218",39.74060440000,-104.964973000000
 838,Warren Village Denver Colorado,"1323 Gilpin St Denver, Colorado 80218",39.73725000000,-104.967610000000
 839,Denver Rescue Mission Denver ,"3501 E. 46th Avenue Denver,  80216",39.78023529000,-104.946220000000
 840,Joy House Denver Colorado,"PO Box 9884 Denver, Colorado 80218",39.74731827000,-104.977760000000
-841,Christ Body Ministries Denver ,"850 Lincoln St Denver,  80235",39.72975540000,-104.985923000000
-842,House of Hope - The Family Tree Englewood ,"3301 S Grant St Englewood,  80113",39.65664673000,-104.984275000000
+841,Christ Body Ministries Denver ,"850 Lincoln St Denver, Colorado 80235",39.72975540000,-104.985923000000
+842,House of Hope - The Family Tree Englewood ,"3301 S Grant St Englewood, Colorado 80113",39.65664673000,-104.984275000000
 843,New Genesis (for men and women) Denver Colorado,"1680 Sherman St. Denver, Colorado 80203",39.74303055000,-104.984420000000
 844,New Genesis Denver Colorado,"1680 Sherman St Denver, Colorado 80203",39.74282455444,-104.984619140625
 845,Sacred Heart House of Denver Denver Colorado,"2844 Lawrence St Denver, Colorado 80205",39.76006317000,-104.981323000000
 846,Urban Peak Denver Denver Colorado,"730 21st Street Denver, Colorado 80205",39.75020800000,-104.986930000000
-847,St Francis Center Denver ,"2323 Curtis St Denver,  80205",39.75407791000,-104.986084000000
+847,St Francis Center Denver ,"2323 Curtis St Denver, Colorado 80205",39.75407791000,-104.986084000000
 848,Colorado Coalition Homeless Denver Colorado,"2130 Stout St Denver, Colorado 80205",39.75144958000,-104.987831000000
 849,The Delores Project Shelters Denver Colorado,"P.O. Box 1406 Denver, Colorado 80201",39.75107955930,-104.988929749000
-850,Catholic Samaritan House Denver ,"2301 Lawrence St Denver,  80205",39.75529861000,-104.988082000000
+850,Catholic Samaritan House Denver ,"2301 Lawrence St Denver, Colorado 80205",39.75529861000,-104.988082000000
 851,Catholic Charities Northeast Emergency Assistance Center Commerce City Colorado,"6621 E. 72nd Ave Commerce City, Colorado 80022",39.82733536000,-104.910339000000
 852,Salvation Army Crossroads Men's Shelter Denver Colorado,"1901 29th St Denver, Colorado 80216",39.76552300000,-104.987599000000
 853,ACCESS Housing Commerce City Colorado,"6978 Colorado Boulevard Commerce City, Colorado 80022",39.82311249000,-104.940223000000
 854,The Salvation Army Lambuth Family Center Denver Colorado,"2741 North Federal Denver, Colorado 80211",39.75708020000,-105.025661000000
-855,"Family Tree Inc in Wheat Ridge, Colorado  Wheat Ridge ","3805 Marshall St Wheat Ridge,  80033",39.76959229000,-105.068977000000
-856,Growing Home Westminster ,"3489 W 72nd Ave, #110 Westminster,  80030",39.82743835449,-105.032577514648
+855,"Family Tree Inc in Wheat Ridge, Colorado  Wheat Ridge ","3805 Marshall St Wheat Ridge, Colorado 80033",39.76959229000,-105.068977000000
+856,Growing Home Westminster ,"3489 W 72nd Ave #110 Westminster, Colorado 80030",39.82743835449,-105.032577514648
 857,Shannon's Hope Maternity Home Wheat Ridge Colorado,"PO BOX 1477 Wheat Ridge, Colorado 80304",39.77170562744,-105.111213684082
 858,Cold Weather Care Westminster Colorado,"PO BOX 351594 Westminster, Colorado 80035",39.88729095460,-105.026443481000
 859,Almost Home - Shelter and Housing Assistance Brighton Colorado,"231 North Main Street Brighton, Colorado 80601",39.99025726000,-104.820571000000
 860,Safehouse Progressive Alliance Lafayette Colorado,"400 E Simpson St # 201 Lafayette, Colorado 80026",39.99806900000,-105.086360000000
 861,The Little Flower Maternity Home Louisville Colorado,"PO Box 270181 Louisville, Colorado 80027",39.98279190064,-105.134910583500
-862,Feed My Sheep Homeless Ministry Glenwood Springs  Colorado,"1004 Grand Ave Glenwood Springs , Colorado ",39.54389954000,-107.324821000000
+862,Feed My Sheep Homeless Ministry Glenwood Springs  Colorado,"1004 Grand Ave Glenwood Springs , Colorado 81601",39.54389954000,-107.324821000000
 863,Boulder Outreach for Homeless Overflow - BOHO Boulder Colorado,"P.O.Box 1393 Boulder, Colorado 80306",40.01498560000,-105.270545000000
 864,Bridge House Boulder Colorado,"1120 1/2 Pine St Boulder, Colorado 80302",40.01980972290,-105.281097412109
 865,Attention Homes Emergency Shelter For Children Boulder Colorado,"3080 Broadway Boulder, Colorado 80304",40.03069305420,-105.281921386719
@@ -874,7 +874,7 @@
 872,Safe Shelter of St. Vrain Valley Longmont Colorado,"82 21st Avenue Longmont, Colorado 80502",40.19725200000,-105.095251000000
 873,137 Homeless Connection Loveland Colorado,"137 South Lincoln Ave Loveland, Colorado 80537",40.39199260000,-105.073440000000
 874,Neighbor To Neighbor Loveland ,"1511 E 11th Street Loveland,  80537",40.40331268311,-105.056640625000
-875,Family Promise of Larimer County Loveland Colorado,"1511 E. 11th St, Suite 200 Loveland, Colorado 80537",40.40337340000,-105.056460000000
+875,Family Promise of Larimer County Loveland Colorado,"1511 E. 11th St Suite 200 Loveland, Colorado 80537",40.40337340000,-105.056460000000
 876,Hope @ Miracle House Fort Lupton Colorado,"Fort Lupton CO Fort Lupton, Colorado 80621",40.09903500000,-104.816201000000
 877,R.J. Montgomery Center  - Homeless Shelter Colorado Springs Colorado,"709N S. Sierra Madre Colorado Springs, Colorado 80907",38.82418060303,-104.829238891602
 878,Greccio Housing Colorado Springs ,"1015 E Pikes Peak Ave Colorado Springs,  80903",38.84161758000,-104.853088000000
@@ -891,7 +891,7 @@
 889,Urban Peak Colorado Springs Colorado Springs Colorado,"423 E Cucharras St Colorado Springs, Colorado 3609",38.83076477000,-104.817588000000
 890,Springs Rescue Mission Colorado Springs Colorado,"5 W. Las Vegas Colorado Springs, Colorado 80903",38.81826782000,-104.826652000000
 891,Partners In Housing Colorado Springs Colorado,"455 Gold Pass Heights Colorado Springs, Colorado 80906",38.79373550415,-104.819496154785
-892,The Bridge Emergency Shelter Cortez ,"601 N. Mildred Cortez,  81321",37.35526750000,-108.573674000000
+892,The Bridge Emergency Shelter Cortez ,"601 N. Mildred Cortez, Colorado 81321",37.35526750000,-108.573674000000
 893,Durango Community Shelter Durango Colorado,"1055 Avenida Del Sol Durango, Colorado 81301",37.27653885000,-107.885589000000
 894,Greeley Transitional House Greeley Colorado,"1206 10th St Greeley, Colorado 80631",40.42248154000,-104.698379000000
 895,Alternative Homes for Youth Greeley Colorado,"1110 M Street Greeley, Colorado 80631",40.44856644000,-104.697219000000
@@ -965,7 +965,7 @@
 963,Homeward Bound  Inc Dallas Texas,"233 W. 10th Street Dallas, Texas 75208",32.74523544000,-96.825355500000
 964,Promise House Dallas Texas,"224 W Page Ave. Dallas, Texas 75208",32.74006271000,-96.825744600000
 965,The B & W House Dallas Texas,"341 W. Woodin Blvd Dallas, Texas 75224",32.72269821167,-96.828163146973
-966,"Lifeline Shelter for Families, Inc. Grand Prairie Texas","202 College Street, Suite 101 Grand Prairie, Texas 75050",32.74807358000,-97.005752500000
+966,"Lifeline Shelter for Families, Inc. Grand Prairie Texas","202 College Street Suite 101 Grand Prairie, Texas 75050",32.74807358000,-97.005752500000
 967,Living Word In The CliffS Ministries Dallas Texas,"522 Shadyway Dr. Dallas, Texas 75232",32.65155690000,-96.830533000000
 968,Safehaven of Tarrant County - Arlington Resource Center Arlington Texas,"401 W Sanford St #1400 Arlington, Texas 76004",32.74332700000,-97.111920000000
 969,Arlington Life Shelter Arlington Texas,"325 W. Division Street Arlington, Texas 76011",32.73926926000,-97.109764100000
@@ -1048,7 +1048,7 @@
 1046,Daniel's Den Ministries - Emergency Homelessness Response Services Waxahachie Texas,"507 W. Jefferson Waxahachie, Texas 75165",32.38643646000,-96.852340700000
 1047,Austin Resource Center for the Homeless - ARCH Austin Texas,"500 E. 7th Austin, Texas 78701",30.26778412000,-97.737693700000
 1048,Casa Marianella Austin Texas,"821 Gunter Austin, Texas 78702",30.25919342000,-97.701522800000
-1049,Austin Shelter for Women and Children Austin Texas,"4613 Tannehill Ln, bldg 3 Austin, Texas 78721",30.28252400000,-97.668776000000
+1049,Austin Shelter for Women and Children Austin Texas,"4613 Tannehill Ln bldg 3 Austin, Texas 78721",30.28252400000,-97.668776000000
 1050,Foundation For Homeless Austin Austin Texas,"8505 Cross Park Dr. Suite 120 Austin, Texas 78755",30.34013930000,-97.675980200000
 1051,Hope Alliance Women's Shelter Round Rock Texas,"1011 Gattis School Rd #110 Round Rock, Texas 78664",30.49555969000,-97.666679300000
 1052,"Marshall's My Friend's House, Inc. Marshall Texas","2610 Elysian Fields Ave. Marshall, Texas 75672",32.53065109000,-94.338981600000
@@ -1127,7 +1127,7 @@
 1125,BridgeWay Youth Shelter - Montgomery County Youth Services Conroe Texas,"4501 N. Frazier Conroe, Texas 77303",30.37392426000,-95.479362400000
 1126,GODTEL Ministries Livingston Texas,"1607 South Washington Avenue Livingston, Texas 77351",30.69635201000,-94.930427500000
 1127,Community Mission of Colorado City Colorado City Texas,"301 E 3rd St Colorado City, Texas 79512",32.38946915000,-100.863647000000
-1128,Boysville TX - Texas Home For Boys and Girls Converse Texas,"8555 E. Loop 1604 North Converse, Texas 78109 Converse, Texas 78109",29.45900080000,-98.290142800000
+1128,Boysville TX - Texas Home For Boys and Girls Converse Texas,"8555 E. Loop 1604 North Converse Texas 78109 Converse, Texas 78109",29.45900080000,-98.290142800000
 1129,Seton Home San Antonio Texas,"1115 Mission Rd. San Antonio, Texas 78210",29.38816833000,-98.490730200000
 1130,The Refuge Corporation Copperas Cove Texas,"811-A Martin Luther King Jr. Copperas Cove, Texas 76522",31.16290092000,-97.960098200000
 1131,The Salvation Army Center of Hope Galveston Texas,"601 51st St Galveston, Texas 77550",29.29470240000,-94.825790000000
@@ -1288,7 +1288,7 @@
 1286,Dorothy Day Hospitality House Rochester Minnesota,"703 1st SW Rochester, Minnesota 55902",44.02272034000,-92.472778300000
 1287,Welcome Inn Mankato Minnesota,"419 S. Broad Street Mankato, Minnesota 56001",44.16302872000,-94.002845700000
 1288,Theresa House Short Term Shelter Mankato Minnesota,"423 S. Broad St Mankato, Minnesota 56001",44.16265920000,-94.003473000000
-1289,NUMAS Haus New Ulm ,"606 Center St New Ulm,  56073",44.31253060000,-94.460619100000
+1289,NUMAS Haus New Ulm ,"606 Center St New Ulm, Minnesota 56073",44.31253060000,-94.460619100000
 1290,Winona Catholic Worker Transitional Housing Winona Minnesota,"802 W Broadway St Winona, Minnesota 55987",44.05333500000,-91.658409000000
 1291,Matura Adair County Neighborhood Center Greenfield Iowa,"354 Public Square Greenfield, Iowa 50849",41.30454667000,-94.461323330000
 1292,West Central Development Corporation Atlantic Iowa,"304 Chestnut Atlantic, Iowa 50022",41.40783309937,-95.012817382813
@@ -1336,7 +1336,7 @@
 1334,The Grace Center of Southern Oklahoma Ardmore Oklahoma,"11 A. St. NW Ardmore, Oklahoma 73401",34.17332839966,-97.129074096680
 1335,Family Promise of Washington County Bartlesville ,"822 Johnstone Ave Bartlesville,  74003",36.74468100000,-95.978275900000
 1336,Lighthouse Outreach Center Bartlesville Oklahoma,"1411 West Hensley Boulevard   Bartlesville, Oklahoma 74003",36.75339889526,-95.993156433105
-1337,GUTS Church - Food Pantry (aka Distribution Center) Tulsa ,"4352 S 91st E Ave Tulsa,  74145",36.10154000000,-95.876630000000
+1337,GUTS Church - Food Pantry (aka Distribution Center) Tulsa ,"4352 S 91st E Ave Tulsa, Oklahoma 74145",36.10154000000,-95.876630000000
 1338,Mamas Transitional housing Tulsa Oklahoma,"1048 Louisville ave. Tulsa, Oklahoma 74115",36.16963196000,-95.935989300000
 1339,Youth Services  Tulsa Oklahoma,"311 South Madison Tulsa, Oklahoma 74120",36.15650558472,-95.979606628418
 1340,The Salvation Army - Emergency Shelter Tulsa Oklahoma,"102 N. Denver Avenue Tulsa, Oklahoma 74103",36.15615463000,-95.996864300000
@@ -1387,14 +1387,14 @@
 1385,The Grace House Alexandria Alexandria Louisiana,"2807 Levin Street Alexandria, Louisiana 71301",31.30362701416,-92.472450256348
 1386,House of Mercy Women's Shelter Alexandria Louisiana,"2804 Hynson Street Alexandria, Louisiana 71301",31.30557060000,-92.473297100000
 1387,Hope House Alexandria Alexandria Louisiana,"29 Bolton Ave Alexandria, Louisiana 71301",31.31088066101,-92.461738586426
-1388,The Salvation Army Transient Lodge Alexandria Louisiana,"620 Beauregard Alexandria, Louisiana ",31.31123352000,-92.448654100000
-1389,Tsc Emergency Shelter ALEXANDRIA Louisiana,"CONFIDENTIAL ALEXANDRIA, Louisiana ",31.31268501000,-92.445648100000
-1390,Voa Transitional Residential Services Pineville Louisiana,"81 & 85 Rainbow Drive Pineville, Louisiana ",31.32343674000,-92.440429600000
-1391,Southeast Spouse Abuse Program Hammond Louisiana,"CONFIDENTIAL Hammond, Louisiana ",30.50416946000,-90.458396900000
-1392,Quad Area Community Action Agency Livingston Louisiana,"Confidential Livingston, Louisiana ",30.50311089000,-90.752876200000
+1388,The Salvation Army Transient Lodge Alexandria Louisiana,"620 Beauregard Alexandria, Louisiana 71301",31.31123352000,-92.448654100000
+1389,Tsc Emergency Shelter ALEXANDRIA Louisiana,"CONFIDENTIAL ALEXANDRIA, Louisiana 71301",31.31268501000,-92.445648100000
+1390,Voa Transitional Residential Services Pineville Louisiana,"81 & 85 Rainbow Drive Pineville, Louisiana 71360",31.32343674000,-92.440429600000
+1391,Southeast Spouse Abuse Program Hammond Louisiana,"CONFIDENTIAL Hammond, Louisiana 70402",30.50416946000,-90.458396900000
+1392,Quad Area Community Action Agency Livingston Louisiana,"Confidential Livingston, Louisiana 70754",30.50311089000,-90.752876200000
 1393,D.A.R.T. Ruston Louisiana,"CONFIDENTIAL Ruston, Louisiana 71270",32.53050232000,-92.639785700000
 1394,United Christian Home Minden Louisiana,"104 Fuller Street Minden, Louisiana 71055",32.61674500000,-93.280097900000
-1395,C A R E MINISTRIES Bogalusa Louisiana,"815 Avenue F Bogalusa, Louisiana ",30.77248383000,-89.872459400000
+1395,C A R E MINISTRIES Bogalusa Louisiana,"815 Avenue F Bogalusa, Louisiana 70427",30.77248383000,-89.872459400000
 1396,SAFE HARBOR - Domestic Violence Program SLIDELL Mandeville,"P.O. Box 1179 SLIDELL, Mandeville 70470",30.37468910217,-90.087791442871
 1397,S.T.E.P.S. Shreveport Louisiana,"525 Crockett St. Shreveport, Louisiana ",32.51092911000,-93.748229900000
 1398,Shreveport-Bossier Rescue Mission Shreveport Louisiana,"901 McNeil St Shreveport, Louisiana 71101",32.50893402000,-93.747390700000
@@ -1423,13 +1423,13 @@
 1421,HomePlace of Louisiana Baptist Children's Home Monroe Maine,"7200 Desaird St. Monroe, Maine 71203",32.52364560000,-92.049691000000
 1422,Fairhaven Homeless Shelter Monroe Louisiana,"1900 Garret Rd. Monroe, Louisiana 8422",32.48571290000,-92.056574000000
 1423,Desiard Street Homeless Shelter Monroe Louisiana,"807 Desiard St. Monroe, Louisiana 71202",32.50590410000,-92.111026000000
-1424,Monroe Ywca Mary Goss Shelter Monroe Louisiana,"Confidential Monroe, Louisiana ",32.50965118000,-92.119049000000
-1425,Monroe Ywca: Raise the Roof Transitional Housing Monroe Louisiana,"SCATTERED SITE APTS: Monroe, Louisiana ",32.50965118000,-92.119049000000
+1424,Monroe Ywca Mary Goss Shelter Monroe Louisiana,"Confidential Monroe, Louisiana 71291",32.50965118000,-92.119049000000
+1425,Monroe Ywca: Raise the Roof Transitional Housing Monroe Louisiana,"SCATTERED SITE APTS: Monroe, Louisiana 71201",32.50965118000,-92.119049000000
 1426,Faith House of Acadiana Lafayette Louisiana,"1453 W Willow St Lafayette, Louisiana 1026",30.22032547000,-92.017051700000
 1427,St. Joseph Shelter FOR MEN LAFAYETTE Louisiana,"425 ST. JOHN ST. LAFAYETTE, Louisiana 70501",30.23019791000,-92.022712700000
 1428,Smile Family Shelter Lafayette Louisiana,"501 St. John Street Lafayette, Louisiana 70501",30.22915680000,-92.022584000000
-1429,Outreach Center For Women and Children Lafayette Louisiana,"PO Box 2747 Lafayette, Louisiana ",30.22409057617,-92.019844055176
-1430,New Start Center St. Martinville Louisiana,"Confidential St. Martinville, Louisiana ",30.12322617000,-91.829284600000
+1429,Outreach Center For Women and Children Lafayette Louisiana,"PO Box 2747 Lafayette, Louisiana 70502",30.22409057617,-92.019844055176
+1430,New Start Center St. Martinville Louisiana,"Confidential St. Martinville, Louisiana 70582",30.12322617000,-91.829284600000
 1431,Iberia Homeless Shelter New Iberia Louisiana,"307 Robertson Street New Iberia, Louisiana 70560",30.00470734000,-91.825820900000
 1432,SNAP Shelter New Iberia New Iberia Louisiana,"PO Box 10207 New Iberia, Louisiana 70562",30.00513458000,-91.817596400000
 1433,Serenity Help Center - For Women New Iberia Louisiana,"404 W Admiral Doyle New Iberia, Louisiana 70560",29.99850654602,-91.840095520020
@@ -1454,16 +1454,16 @@
 1452,Community Christian Concern Slidell Louisiana,"2515 Carey St. Slidell, Louisiana 3911",30.27051210000,-89.783998000000
 1453,THE CARING CENTER OF SLIDELL SLIDELL Louisiana,"1020 Buccaran Dr SLIDELL, Louisiana 70458",30.28969764709,-89.771499633789
 1454,Assist Agency Homeless Shelter Crowley Louisiana,"Confidential Crowley, Louisiana 70526",30.21057129000,-92.372215200000
-1455,Welcome House Homeless Shelter  Crowley Louisiana,"24292 Crowley Eunice Hwy Crowley, Louisiana ",30.31690407000,-92.396682700000
-1456,Dowden Memorial Shelter - Vernon Community Action LEESVILLE Louisiana,"CONFIDENTIAL LEESVILLE, Louisiana ",31.14325523376,-93.264404296875
+1455,Welcome House Homeless Shelter  Crowley Louisiana,"24292 Crowley Eunice Hwy Crowley, Louisiana 70526",30.31690407000,-92.396682700000
+1456,Dowden Memorial Shelter - Vernon Community Action LEESVILLE Louisiana,"CONFIDENTIAL LEESVILLE, Louisiana 71446",31.14325523376,-93.264404296875
 1457,"Chez Hope, Inc. Franklin Louisiana","801 Main St Franklin, Louisiana 70538",29.79202461000,-91.498359600000
 1458,St Mary Community Sunshine House Franklin LA  Franklin Louisiana,"1407 Barrow St. Franklin, Louisiana 3514",29.80438042000,-91.512481600000
 1459,Terrebonne Parish Homeless Shelter - Beautiful Beginnings Houma Louisiana,"300 Bond Street Houma, Louisiana 70360",29.59141900000,-90.724055000000
-1460,Bunkhouse Shelter Houma Louisiana,"8424 Main Street Houma, Louisiana ",29.59840012000,-90.708389200000
+1460,Bunkhouse Shelter Houma Louisiana,"8424 Main Street Houma, Louisiana 70363",29.59840012000,-90.708389200000
 1461,Veterans Housing Outreach Ministries Hahnville Louisiana,"116 Byrd Lane Hahnville, Louisiana 70057",29.97383308411,-90.407516479492
 1462,Harbour House Lake Charles Louisiana,"2400 Merganser Street Lake Charles, Louisiana 70615",30.21484375000,-93.164367600000
 1463,The Center of Hope: Men's Shelter and Work Program Lake Charles Louisiana,"3020 Legion Street Lake Charles, Louisiana 70615",30.21645927000,-93.173164300000
-1464,"Volunteers Of America in Lake Charles, LA Lake Charles Louisiana","2119 Oak Park Boulevard Lake Charles, Louisiana ",30.20350440000,-93.190700200000
+1464,"Volunteers Of America in Lake Charles, LA Lake Charles Louisiana","2119 Oak Park Boulevard Lake Charles, Louisiana 70601",30.20350440000,-93.190700200000
 1465,Nepenthe House Lake Charles Louisiana,"1414 Martha St. Lake Charles, Louisiana 70602",30.24677700000,-93.201158000000
 1466,Mountai  of Faith Women's Restoration Shelter Vicksburg Mississippi,"P.O. Box 820138 Vicksburg, Mississippi 39182",32.35260009766,-90.877799987793
 1467,Catholic Charities Guardian Shelter and Oak Towers Natchez Mississippi,"109 South Union St Natchez, Mississippi 39120",31.55891609192,-91.401473999023
@@ -1560,7 +1560,7 @@
 1558,Calvary Rescue Mission Memphis Tennessee,"960 S. Third St. Memphis, Tennessee 38106",35.12114716000,-90.054107600000
 1559,"Alpha Omega Veterans Services, Inc. Memphis Tennessee","1183 Madison Avenue Memphis, Tennessee 38104",35.13913190000,-90.021839000000
 1560,Safe Harbor of Memphis Memphis Tennessee,"3630 Jackson Avenue Memphis, Tennessee 38108",35.17657089233,-89.939254760742
-1561,Memphis Family Shelter Memphis Tennessee,"766 S Highland St Memphis, Tennessee ",35.11062210000,-89.945533300000
+1561,Memphis Family Shelter Memphis Tennessee,"766 S Highland St Memphis, Tennessee 38111",35.11062210000,-89.945533300000
 1562,Human Development and Research Services Pine Bluff Arkansas,"Post Office Box 8225 Pine Bluff, Arkansas 71611",34.22353363000,-92.003402700000
 1563,"Committee Against Spouse Abuse, Inc. Pine Bluff Arkansas","Post Office Box 6705 Pine Bluff, Arkansas 71611",34.22353363000,-92.003402700000
 1564,The Salvation Army PineBluff Pine Bluff Arkansas,"501 E. 12th Avenue Pine Bluff, Arkansas 71601",34.21770477000,-91.999214100000
@@ -1620,7 +1620,7 @@
 1618,Christian Care Center Samaritan Inn Leesburg Florida,"115 N. 13th Street  Leesburg, Florida 34748",28.81162453000,-81.885246200000
 1619,Christian Care Center Rescue Mission Leesburg Florida,"115 N 13th St Leesburg, Florida 34748",28.81154390000,-81.885390000000
 1620,Christian Care Center Women's Care Center Leesburg Florida,"1309 High Street Leesburg, Florida 34748",28.81226540000,-81.885566700000
-1621,Christian Care Center Leesburg Florida,"1309 High Street, #102 Leesburg, Florida 34748",28.81209800000,-81.885715000000
+1621,Christian Care Center Leesburg Florida,"1309 High Street #102 Leesburg, Florida 34748",28.81209800000,-81.885715000000
 1622,Hannah's House (Home for Women & Children) Wauchula Florida,"P.O. Box 339 Wauchula, Florida 33873",27.54725890000,-81.811471500000
 1623,Charlotte County Homeless Coalition - Safe House Emergency Homeless Shelter Port Charlotte Florida,"1476 Kenesaw Street Port Charlotte, Florida 33948",27.00563812000,-82.158203100000
 1624,North Port Social Services North Port Florida,"6919 OUTREACH WAY North Port, Florida 34287",27.07692719000,-82.236083900000
@@ -1637,7 +1637,7 @@
 1635,Broward Partnership for the Homeless Central Campus Ft Lauderdale Florida,"920 NW 7th Avenue Ft Lauderdale, Florida 33311",26.13525391000,-80.150772000000
 1636,Covenant House Florida Fort Lauderdale Florida,"733 Breakers Avenue Fort Lauderdale, Florida 33304",26.13369751000,-80.105697600000
 1637,Miami City Mission Youth Center Miami Florida,"3033 NW 7th Ave Miami, Florida 33238",25.80520500000,-80.207094000000
-1638,BC Central Homeless Assistance Center Fort Lauderdale Florida,"920 NW 7 Avenue Fort Lauderdale, Florida ",26.13577461000,-80.150436400000
+1638,BC Central Homeless Assistance Center Fort Lauderdale Florida,"920 NW 7 Avenue Fort Lauderdale, Florida 33311",26.13577461000,-80.150436400000
 1639,Douglas Gardens CMHC - Homeless Assistance Program Miami Beach Florida,"701 Lincoln Rd Miami Beach, Florida 33139",25.79063606000,-80.135559000000
 1640,Salvation Army Miami Adult Rehab Center Miami Florida,"2236 NW Miami Court Miami, Florida 33127",25.79875183000,-80.196357700000
 1641,Miami Rescue Women Miami Florida,"2250 NW 1st Ave Miami, Florida 33127",25.79865456000,-80.196952800000
@@ -1651,7 +1651,7 @@
 1649,Camillus House Miami Florida,"1603 NW 7th Avenue Miami, Florida 33136",25.79068000000,-80.206472000000
 1650,Eyes On God Homeless Shelter Miami Florida,"223 E Flagler St # 218 Miami, Florida 33131",25.77427483000,-80.189704900000
 1651,Miami Dade Homeless Trust Miami Florida,"111 NW 1st St Miami, Florida 33128",25.77597000000,-80.196970000000
-1652,Broward County Homeless HelpLine Fort Lauderdale Florida,"3217 NW 10th Terrace, Suite 307 Fort Lauderdale, Florida 33309",26.16877556000,-80.157226500000
+1652,Broward County Homeless HelpLine Fort Lauderdale Florida,"3217 NW 10th Terrace Suite 307 Fort Lauderdale, Florida 33309",26.16877556000,-80.157226500000
 1653,Lippman Youth Shelter Oakland Park Florida,"221 Northwest 43rd Court Oakland Park, Florida 33309",26.18045044000,-80.148361200000
 1654,Silver Impact Day Shelter Lauderhill Florida,"7155 W Oakland Park Blvd Lauderhill, Florida 33319",26.16530440000,-80.242558100000
 1655,Haitian Evangelical Baptist Church Food Pantry Pompano Beach Florida,"153 NW 12th Street Pompano Beach, Florida 33060",26.24357100000,-80.124272000000
@@ -1659,7 +1659,7 @@
 1657,Broward Partnership for the Homeless North Campus Pompano Beach Florida,"1700 Blount Road Pompano Beach, Florida 33069",26.25287100000,-80.163853000000
 1658,Salvation Army Boca Raton Social Services Boca Raton Florida,"300 SW 2nd Avenue Boca Raton, Florida 33432",26.34659957886,-80.089538574219
 1659,New Testament Mission Sebring Florida,"604 Lemon St Sebring, Florida 33870",27.50011253000,-81.436485200000
-1660,Frostproof Care Center Frostproof Florida,"17 S Scenic Hwy Frostproof, Florida ",27.74533767000,-81.530183330000
+1660,Frostproof Care Center Frostproof Florida,"17 S Scenic Hwy Frostproof, Florida 33843",27.74533767000,-81.530183330000
 1661,Lake Wales Care Center Lake Wales Florida,"140 East Park Ave Lake Wales, Florida 33853",27.90251732000,-81.588989200000
 1662,"George W. Harris, Jr. Runaway & Youth Crisis Shelter Bartow Florida","1060 US Highway 17 South Bartow, Florida 33830",27.88680790000,-81.827271600000
 1663,South Miami Dade Center Homestead Florida,"28205 SW 125 Avenue Homestead, Florida 33033",25.50570679000,-80.391159000000
@@ -1673,18 +1673,18 @@
 1671,The Path of Citrus County Beverly Hills Florida,"21 S. Melbourne St. Beverly Hills, Florida 34465",28.92557700000,-82.461217000000
 1672,Mission in Citrus Inc Crystal River Florida,"2488 North Pennsylvania Ave Crystal River, Florida 34428",28.89855766000,-82.561485200000
 1673,Annie Johnson Senior Center Dunnellon Florida,"1991 Testcourt Dunnellon, Florida 34430",29.04879951000,-82.461097700000
-1674,"The Sanctuary Mission, Inc Homosassa ","7463 W. Grover Cleveland Blvd. Homosassa,  34446",28.80453400000,-82.557915000000
+1674,"The Sanctuary Mission, Inc Homosassa ","7463 W. Grover Cleveland Blvd. Homosassa, Florida 34446",28.80453400000,-82.557915000000
 1675,"Jericho Road Ministries, Inc Women's Shelter Brooksville Florida","1163 Howell Ave Brooksville, Florida 34601",28.57284164000,-82.379913300000
 1676,The Life Center of Hernando Brooksville Florida,"PO Box 10141 Brooksville, Florida 34603",28.55527190000,-82.387870900000
 1677,"Jericho Road Ministries, Inc Men's shelter Brooksville Florida","1090 Mondon Hill Rd.  Brooksville, Florida 34601",28.55602837000,-82.375831600000
 1678,Mid Florida Community Services Brooksville Florida,"820 Kennedy Blvd Brooksville, Florida 34601",28.54486275000,-82.373558000000
-1679,Family Promise of South Palm Beach County Delray Beach Florida,"840 George Bush Boulevard, Building D Delray Beach, Florida 33483",26.47346900000,-80.064258400000
+1679,Family Promise of South Palm Beach County Delray Beach Florida,"840 George Bush Boulevard Building D Delray Beach, Florida 33483",26.47346900000,-80.064258400000
 1680,Community Caring Center Boynton Beach Florida,"145 NE 4th Avenue Boynton Beach, Florida 33435",26.53090130000,-80.062478500000
 1681,The Lord's Place Men's Campus Boynton Beach - William H. Mann Place for Men Boynton Beach Florida,"1750 NE Fourth Street Boynton Beach, Florida 33435",26.54280090000,-80.057922300000
 1682,Vetsville Cease Fire House - Veterans Service Boynton Beach Florida,"291 N.E. 19th Avenue Boynton Beach, Florida 33435",26.54667854000,-80.062728800000
 1683,Faith Farm Boynton Beach Florida,"9538 Highway 441 Boynton Beach, Florida 33437",26.53424454000,-80.205245900000
 1684,Salvation Army Lake Worth Social Services Lake Worth Florida,"4051 Kirk Road Lake Worth, Florida 33460",26.61712646000,-80.106269800000
-1685,Burckle Place Lake Worth Florida,"Not disclosed Lake Worth, Florida ",26.61626052856,-80.057243347168
+1685,Burckle Place Lake Worth Florida,"Not disclosed Lake Worth, Florida 33460",26.61626052856,-80.057243347168
 1686,Adopt a Family of Palm Beaches Lake Worth Florida,"1712 2nd Ave North Lake Worth, Florida 33460",26.61848000000,-80.065530000000
 1687,Family Promise of North Central Palm Beach County West Palm Beach Florida,"1003 Allendale Road West Palm Beach, Florida 33405",26.68714600000,-80.065123000000
 1688,The Salvation Army Center of Hope West Palm Beach West Palm Beach Florida,"1577 North Military Trail West Palm Beach, Florida 33409",26.70026016000,-80.113876300000
@@ -1712,8 +1712,8 @@
 1710,Salvation Army Shelter - Center of Hope Sarasota Florida,"1400 10th Street Sarasota, Florida 34236",27.34479904000,-82.541946400000
 1711,Resurrection House Sarasota Florida,"507 Kumquat Court Sarasota, Florida 34237",27.34045029000,-82.539756700000
 1712,Harvest House Transitional Centers Sarasota Florida,"3650 17th Street Sarasota, Florida 6123",27.35153400000,-82.495805000000
-1713,Our Mother's House Venice ,"P.O. Box 2240 Venice,  34284",27.09977750000,-82.454263200000
-1714,The Lado Loop Home and Sanctuary Wesley Chapel ,"4158 Lado Dr Wesley Chapel,  33543",28.21775290000,-82.265495800000
+1713,Our Mother's House Venice ,"P.O. Box 2240 Venice, Florida 34284",27.09977750000,-82.454263200000
+1714,The Lado Loop Home and Sanctuary Wesley Chapel ,"4158 Lado Dr Wesley Chapel, Florida 33543",28.21775290000,-82.265495800000
 1715,Lighthouse Ministries - Men's Gospel Rescue Mission Lakeland Florida,"117 E. Magnolia St Lakeland, Florida 33802",28.04926300000,-81.957092200000
 1716,Talbot House Ministries of Lakeland Lakeland Florida,"814 N Kentucky Ave Lakeland, Florida 33801",28.05145454000,-81.955352700000
 1717,St. Francis Women & Children's Services Lakeland Florida,"801 E Memorial Blvd Lakeland, Florida 33801",28.05495790000,-81.948962800000
@@ -1726,7 +1726,7 @@
 1724,Palmetto House Daytona Beach Florida,"336 S Palmetto Ave Daytona Beach, Florida 32114",29.20617676000,-81.019058200000
 1725,Family Renew Community Daytona Beach Florida,"105 South St.  Daytona Beach, Florida 32114",29.20032692000,-81.013946500000
 1726,R L Simmons House Palatka Florida,"2600 Peters ST Palatka, Florida 32177",29.65405340000,-81.656288100000
-1727,Housing For Homeless Rockledge Florida,"4087 S US 1, Suite 3 Rockledge, Florida 32955",28.29057000000,-80.697680000000
+1727,Housing For Homeless Rockledge Florida,"4087 S US 1 Suite 3 Rockledge, Florida 32955",28.29057000000,-80.697680000000
 1728,Central Brevard Sharing Center Cocoa Florida,"113 Aurora Street Cocoa, Florida 32922",28.35448265000,-80.749244600000
 1729,Christian Mission Bargain Center Shelter and Services Geneva Geneva Alabama,"801 East Town Avenue Geneva, Alabama 36340",31.03310012817,-85.864799499512
 1730,Crestview Area Shelter for the Homeless Crestview Florida,"120 Duggan Avenue Crestview, Florida 32536",30.74396167000,-86.565918330000
@@ -1734,7 +1734,7 @@
 1732,Fresh Start Fort Walton Beach Florida,"8 Bobolink St NE Fort Walton Beach, Florida 32548",30.41485300000,-86.611610000000
 1733,Shelter House Domestic and Sexual Violence Center Fort Walton Beach Florida,"16 Ferry Road SE Fort Walton Beach, Florida 32548",30.41077020000,-86.601161300000
 1734,Hosanna House Destin Florida,"PO Box 5094 Destin, Florida  3254",30.39353370000,-86.495783300000
-1735,Alpha Omega Saint Augustine Florida,"1797 Old Moultrie Road, Suite 107 Saint Augustine, Florida 32084",29.86856880000,-81.326717000000
+1735,Alpha Omega Saint Augustine Florida,"1797 Old Moultrie Road Suite 107 Saint Augustine, Florida 32084",29.86856880000,-81.326717000000
 1736,Betty Griffin House Domestic Violence Shelter Saint Augustine Florida,"1375 Arapaho Avenue Saint Augustine, Florida 32084",29.87826729000,-81.323127700000
 1737,Emergency Services and Homeless Coalition St Johns County St. Augustine ,"62 Chapin St St. Augustine,  32084",29.89276110000,-81.329480000000
 1738,St. Francis Housing Crisis Center Saint Augustine Florida,"70 Washington St Saint Augustine, Florida 32084",29.88844490000,-81.313758800000
@@ -1761,24 +1761,24 @@
 1759,LAMP - New Horizons Dev. Center Valdosta Georgia,"714 Charlton St. Valdosta, Georgia 31601",30.84006000000,-83.277150000000
 1760,Samuel's House Key West Florida,"1614 Truesdell Court Key West, Florida 33040",24.55790520000,-81.788528400000
 1761,St. Bede’s Village Key West Florida,"2409 N. Roosevelt Blvd Key West, Florida 33040",24.56634712000,-81.760757400000
-1762,Kots Keys Overnight Tempory Shelter Key West ,"5537 College Road Key West,  33040",24.57649520000,-81.749253800000
+1762,Kots Keys Overnight Tempory Shelter Key West ,"5537 College Road Key West, Florida 33040",24.57649520000,-81.749253800000
 1763,Domestic Abuse Shelter of The Florida Keys Marathon Shores Florida,"P.O. Box 522696 Marathon Shores, Florida 33052",24.70999908000,-81.089996300000
 1764,Salvation Army Foley Alabama Foley Alabama,"620 N. McKenzie Foley, Alabama 36535",30.41185590000,-87.683747300000
-1765,Family Promise of Baldwin County Homeless Services Foley Alabama,"15765 Hwy 59 North , C Foley, Alabama 36535",30.45489883000,-87.689590400000
+1765,Family Promise of Baldwin County Homeless Services Foley Alabama,"15765 Hwy 59 North C Foley, Alabama 36535",30.45489883000,-87.689590400000
 1766,Catholic Charities of Northwest Florida Emergency Services Tallahassee Florida,"1380 Blountstown Highway Tallahassee, Florida 32310",30.45535851000,-84.345848000000
 1767,The Shelter - Kearney Center Tallahassee Florida,"2650 Municipal Way Tallahassee, Florida 32304",30.43996670000,-84.331179000000
-1768,Good Samaritan Inn Residential Program For Males Tallahassee Florida,"2810 Sharer Rd, Suite 30 Tallahassee, Florida 32312",30.47910600000,-84.297625000000
-1769,Hope Community - Big Bend Homeless Coalition Tallahassee Florida,"325 John Knox Road, Bldg A Tallahassee, Florida 32304",30.47391900000,-84.285992000000
-1770,InnBetween Transitional Housing Tallahassee ,"606 West 4th Avenue, Suite 11 Tallahassee,  32303",30.45397000000,-84.290385000000
+1768,Good Samaritan Inn Residential Program For Males Tallahassee Florida,"2810 Sharer Rd Suite 30 Tallahassee, Florida 32312",30.47910600000,-84.297625000000
+1769,Hope Community - Big Bend Homeless Coalition Tallahassee Florida,"325 John Knox Road Bldg A Tallahassee, Florida 32304",30.47391900000,-84.285992000000
+1770,InnBetween Transitional Housing Tallahassee ,"606 West 4th Avenue Suite 11 Tallahassee,  32303",30.45397000000,-84.290385000000
 1771,CARE Tallahassee Tallahassee Florida,"1224 Eppes Dr Tallahassee, Florida 32304",30.43166924000,-84.303497300000
 1772,City Walk Urban Mission Tallahassee Florida,"1105 North Monroe Street Tallahassee, Florida 32303",30.45371100000,-84.280100000000
 1773,Making Miracles Group Home Tallahassee Florida,"P.O. Box 12953 Tallahassee, Florida 32312",30.57755851746,-84.240837097168
 1774,The Chelsea House Tallahassee Florida,"P.O. Box 10547 Tallahassee, Florida 32302",30.43819046000,-84.280632000000
-1775,Wisdom's Wellspring Tallahassee ,"3004 B Mahan Drive Tallahassee,  32333",30.46121370000,-84.227200400000
+1775,Wisdom's Wellspring Tallahassee ,"3004 B Mahan Drive Tallahassee, Florida 32333",30.46121370000,-84.227200400000
 1776,Rescue Mission Soup Kitchen  Thomasville Georgia,"521 Madison St. Thomasville, Georgia 31792",30.84158240000,-83.988064600000
 1777,Mississippi Regional Housing Authority IV Columbus ,"2845 South Frontage Road Columbus,  39703",33.48047256470,-88.642570495605
 1778,Salvation Army Homeless Shelter - Red Shield Lodge Tupelo Mississippi,"527 Carnation St Tupelo, Mississippi 38801",34.25343704000,-88.709297100000
-1779,Homes of Grace Vancleave ,"14200 Jericho Rd Vancleave,  39565",30.54628372192,-88.715858459473
+1779,Homes of Grace Vancleave ,"14200 Jericho Rd Vancleave, Mississippi 39565",30.54628372192,-88.715858459473
 1780,Case Management Housing Support Services Jackson Mississippi,"748 N. President Street Jackson, Mississippi 39202",32.30785751000,-90.179824800000
 1781,Gateway Rescue Mission Jackson Mississippi,"328 S. Gallatin Street Jackson, Mississippi 39207",32.29832839966,-90.192535400391
 1782,Salvation Army Center of Hope Shelter Jackson Jackson Mississippi,"110 Presto Lane Jackson, Mississippi 39206",32.37945200000,-90.162593000000
@@ -1794,7 +1794,7 @@
 1792,Mission of Hope For Men and Women Mobile Alabama,"14970 Mission Road Mobile, Alabama 36608",30.66160583000,-88.396873400000
 1793,Shelter of Hope Salvation Army Meridian Meridian Mississippi,"710 B Street Meridian, Mississippi 39301",32.36817020000,-88.684743700000
 1794,Frances W. Davidson Memorial Homeless Shelter Meridian Mississippi,"2900 Saint Paul Street Meridian, Mississippi 39301",32.35103607178,-88.705261230469
-1795,Housing First The Homeless Coalition Mobile ,"273 Azalea Rd, Bldg 3, Suite 110 Mobile,  36607",30.67458720000,-88.146431000000
+1795,Housing First The Homeless Coalition Mobile ,"273 Azalea Rd Bldg 3 Suite 110 Mobile,  Mississippi 36607",30.67458720000,-88.146431000000
 1796,Covenant House Missouri - Saint Louis Saint Louis Mississippi,"2727 North Kingshighway Blvd Saint Louis, Mississippi 63113",38.66978150000,-90.257128700000
 1797,Genesis Men's Home St. Louis Missouri,"4302 Farlin Ave St. Louis, Missouri 63115",38.67203521729,-90.233070373535
 1798,Epworth Youth Emergency Services (YES) Shelter University City Missouri,"6816 Washington Ave. University City, Missouri 63130",38.65480041504,-90.310035705566
@@ -1812,7 +1812,7 @@
 1810,Holy Angels Shelter East St Louis Illinois,"P.O. Box 3310 East St Louis, Illinois 62204",38.63153839111,-90.112213134766
 1811,Catholic Urban Programs Holy Angels Shelter East St Louis Illinois,"1410 North 37 St East St Louis, Illinois 62204",38.61590576000,-90.117004300000
 1812,Loaves & Fishes for St. Louis Maryland Heights Missouri,"2750 McKelvey Road. Maryland Heights, Missouri 63043",38.73313240000,-90.445674000000
-1813,Youth In Need Emergency Shelter St. Charles ,"1815 Boone\'s Lick Road St. Charles,  63301",38.77584076000,-90.508781400000
+1813,Youth In Need Emergency Shelter St. Charles ,"1815 Boone\'s Lick Road St. Charles, Missouri 63301",38.77584076000,-90.508781400000
 1814,Oasis Women's Shelter Alton Illinois," 111 Market St Alton, Illinois 62002",38.88983830000,-90.185522400000
 1815,Salvation Army Booth House Alton Illinois,"114 East 5th Alton, Illinois 62002",38.89265442000,-90.183509800000
 1816,Jefferson County Rescue Mission Pevely Missouri,"8943 Commercial Blvd. Pevely, Missouri 63070",38.28099060059,-90.390266418457
@@ -1825,7 +1825,7 @@
 1823,Thirteenth Place Youth Shelter Gadsden Alabama,"405 South 12th Street Gadsden, Alabama 35901",34.01583862000,-86.020233100000
 1824,"The Love Center, Inc. Gadsden Alabama","915 S 12th Street Gadsden, Alabama 35901",34.00993400000,-86.021860000000
 1825,A House of Refuge Oneonta Alabama,"285 Larocko Road Oneonta, Alabama 35121",33.96895218000,-86.479255600000
-1826,Big Oak Ranch Boys Gadsden ,"250 Jake Mintz Road Gadsden,  35905",33.87221527000,-85.986366200000
+1826,Big Oak Ranch Boys Gadsden ,"250 Jake Mintz Road Gadsden, Alabama 35905",33.87221527000,-85.986366200000
 1827,Salvation Army Domestic Violence and Womens Shelter Anniston Alabama,"PO Box 218 Anniston, Alabama 36202",33.65999985000,-85.830001800000
 1828,Salvation Army Anniston  Emergency Services Anniston Alabama,"420 Noble Street Anniston, Alabama 36201",33.65010071000,-85.830200200000
 1829,Alabama Baptist Children's Homes and Family Ministries Oxford Alabama,"1210 Friendship Rd Oxford, Alabama 36203",33.59175491333,-85.814598083496
@@ -1836,28 +1836,28 @@
 1834,Salvation Army Center of Hope Decatur Decatur Alabama,"114 14th St SW Decatur, Alabama 35601",34.57846030000,-86.986940400000
 1835,New Futures Family Lodge Huntsville Huntsville Alabama,"5429 Oakwood Rd Huntsville, Alabama 35806",34.75688890000,-86.662176000000
 1836,The Studio Shelter and Services Huntsville Alabama,"1001 Oakwood Avenue Huntsville, Alabama 35801",34.74886322000,-86.595855700000
-1837,Big Oak ranch Girls Facility Springville ,"6000 Shelley Drive Springville,  35147",33.81929398000,-86.374099700000
+1837,Big Oak ranch Girls Facility Springville ,"6000 Shelley Drive Springville, Alabama 35147",33.81929398000,-86.374099700000
 1838,Harvest Evangelism Opelika Alabama,"2510 Pepperell Pkwy  Opelika, Alabama 36801",32.63701170000,-85.415539900000
 1839,His Place - Homeless Services and Substance Abuse Services Opelika Alabama,"1415 2nd Avenue Opelika, Alabama 36801",32.65000153000,-85.370002700000
 1840,BRIDGES shelter for Teen Girls Tuskegee Alabama,"206 East Oak Street Tuskegee, Alabama 36083",32.42344284058,-85.688720703125
 1841,Hope's Inn For Single Mothers Lafayette Alabama,"PO Box 145 Lafayette, Alabama 36862",32.89984893799,-85.401062011719
 1842,The Shoulder Rehab For Men Spanish Fort Alabama,"4901 Battleship Parkway Spanish Fort, Alabama 36577",30.67407035828,-87.960838317871
 1843,Waterfront Rescue Mission of Alabama Mobile Alabama,"279A North Washington Ave Mobile, Alabama 36603",30.69341770000,-88.055836300000
-1844,Salvation Army Mobile - Dauphin Way Lodge Mobile ,"1009 Dauphin Street Mobile,  38604",30.68763733000,-88.058021500000
+1844,Salvation Army Mobile - Dauphin Way Lodge Mobile ,"1009 Dauphin Street Mobile, Alabama 38604",30.68763733000,-88.058021500000
 1845,Family Promise of Coastal Alabama Mobile Mobile Alabama,"1260 Dauphin Street Mobile, Alabama 36604",30.68746948000,-88.064727700000
 1846,Taking it By Force Women's Weekend Shelter Mobile Alabama,"3801C St. Stephens Road Mobile, Alabama 36612",30.74993133545,-88.114631652832
 1847,McKemie Place Mobile Alabama,"913 Broad Street Mobile, Alabama 36603",30.66746330000,-88.055656400000
-1848,Foundry Ministries Bessemer ,"1801 5th Ave N Bessemer,  35020",33.40242020000,-86.955624000000
-1849,Catholic Center of Concern Birmingham ,"712 4th Court West Birmingham,  35204",33.50743866000,-86.847557000000
+1848,Foundry Ministries Bessemer ,"1801 5th Ave N Bessemer, Alabama 35020",33.40242020000,-86.955624000000
+1849,Catholic Center of Concern Birmingham ,"712 4th Court West Birmingham, Alabama 35204",33.50743866000,-86.847557000000
 1850,Jimmie Hale Mission Birmingham Alabama,"420 2nd Avenue North Birmingham, Alabama 35222",33.50574112000,-86.827140800000
-1851,Hannah Bethany Home - Womens Homeless Shelter Birmingham ,"1615 Cullom Street South Birmingham,  35205",33.49083328000,-86.807937600000
+1851,Hannah Bethany Home - Womens Homeless Shelter Birmingham ,"1615 Cullom Street South Birmingham, Alabama 35205",33.49083328000,-86.807937600000
 1852,Bread and Roses Hospitality House Birmingham Alabama,"1135 14th Avenue South Birmingham, Alabama 35205",33.49273300171,-86.808837890625
-1853,Fellowship House Birmingham ,"1625 12th Avenue South Birmingham,  35205",33.49688339000,-86.801223700000
+1853,Fellowship House Birmingham ,"1625 12th Avenue South Birmingham, Alabama 35205",33.49688339000,-86.801223700000
 1854,Hope House Residential Youth Shelter Birmingham Alabama,"1323 7th Avenue North Birmingham, Alabama 35203",33.51620600000,-86.818483000000
 1855,The Firehouse Shelter Birmingham Alabama,"1501 Third Avenue North Birmingham, Alabama 35202",33.51285934000,-86.813659600000
 1856,Bridge Ministries - Homeless Families with Children Birmingham Alabama,"1016 19th Street South Birmingham, Alabama 35205",33.50055940000,-86.798174700000
-1857,Brother Bryan Mission Birmingham ,"1616 2nd Avenue North Birmingham,  35203",33.51297760000,-86.811683600000
-1858,Aletheia House Birmingham ,"201 Finley Avenue West Birmingham,  35201",33.53640366000,-86.838897700000
+1857,Brother Bryan Mission Birmingham ,"1616 2nd Avenue North Birmingham, Alabama 35203",33.51297760000,-86.811683600000
+1858,Aletheia House Birmingham ,"201 Finley Avenue West Birmingham, Alabama 35201",33.53640366000,-86.838897700000
 1859,Birmingham PATH Center Birmingham Alabama,"409 21st Street N Birmingham, Alabama 35203",33.51815033000,-86.806175200000
 1860,Pathways - For Women Birmingham Alabama,"409 Richard Arrington Jr. Blvd. N Birmingham, Alabama 35203",33.51845169000,-86.806358300000
 1861,First Light Women Childrens Shelter and Services Birmingham Alabama,"2230 Fourth Avenue North Birmingham, Alabama 35203",33.51885986000,-86.804405200000
@@ -1868,7 +1868,7 @@
 1866,Salvation Army of Greater Birmingham Emergency Housing Birmingham Alabama,"2015 26th Avenue North Birmingham, Alabama 35234",33.54472440000,-86.825713300000
 1867,Priority Veteran Birmingham Birmingham Alabama,"3600 8th Avenue South Birmingham, Alabama 35222",33.51570400000,-86.776822700000
 1868,Jefferson-Blount-st. Clair Mental Health/Mental Retardation Authority Birmingham Alabama,"940 Montclair Road Birmingham, Alabama 35213",33.51771164000,-86.743125900000
-1869,Community Kitchens of Birmingham Birmingham ,"5712 1st Avenue North Birmingham,  35212",33.54233551000,-86.750183100000
+1869,Community Kitchens of Birmingham Birmingham ,"5712 1st Avenue North Birmingham, Alabama 35212",33.54233551000,-86.750183100000
 1870,YWCA Interfaith Hospitality House for Families Birmingham Alabama,"5916 1st Ave S Birmingham, Alabama 35212",33.54271317000,-86.747604300000
 1871,The Lovelady Center Birmingham Alabama,"7916 2nd Ave S Birmingham, Alabama 35206",33.56378840000,-86.723112000000
 1872,Clay Veterans Center Center Point Alabama,"2124 Old Springville Road Center Point, Alabama 35212",33.63950347900,-86.659294128418
@@ -1899,7 +1899,7 @@
 1897,House of Mercy Columbus Georgia,"1532 Third Avenue Columbus, Georgia 31901",32.47497940000,-84.988914400000
 1898,Vision of Grace Transition Home Montgomery Alabama,"2764 Vandy Dr Montgomery, Alabama 36110",32.42325400000,-86.289371000000
 1899,Vision of Grace Transition Home Montgomery Alabama,"2764 Vandy Dr Montgomery, Alabama 36110",32.42321396000,-86.289337100000
-1900,Mary Ellen's Hearth AT Nellie Burge Community Center Montgomery ,"1226 Clay Street Montgomery,  36104",32.37623000000,-86.331846000000
+1900,Mary Ellen's Hearth AT Nellie Burge Community Center Montgomery ,"1226 Clay Street Montgomery, Alabama 36104",32.37623000000,-86.331846000000
 1901,Salvation Army Montgomery Montgomery Alabama,"900 Maxwell Boulevard Montgomery, Alabama 36104",32.37764359000,-86.325576700000
 1902,Family Promise of Montgomery Services Montgomery Alabama,"28 Crenshaw Street Montgomery, Alabama 36104",32.37605667000,-86.332313500000
 1903,Renascence In Prisoner Re-entry Montgomery Alabama,"215 Clayton Street Montgomery, Alabama 36104",32.37311935000,-86.312629700000
@@ -1971,7 +1971,7 @@
 1969,Mid-Maine Homeless Shelter Waterville Maine,"19 Colby St Waterville, Maine 04901",44.55527878000,-69.628089900000
 1970,Rural Community Action Ministry Leeds Maine,"81 Church Hill Rd Leeds, Maine 04263",44.30284000000,-70.127300000000
 1971,Western Maine Homeless Outreach Farmington Maine,"547 Wilton Road Farmington, Maine 04938",44.63290480000,-70.153431100000
-1972,Shepherd's Godparent Home - Maternity Shelter Bangor ,"PO Box 616 Bangor,  04402",44.80118210000,-68.777813800000
+1972,Shepherd's Godparent Home - Maternity Shelter Bangor ,"PO Box 616 Bangor, Maine 04402",44.80118210000,-68.777813800000
 1973,Barbara's Dwelling Place Bangor Maine,"PO Box 616 Bangor, Maine 04402",44.80000000000,-68.780000000000
 1974,My Choice Bangor Maine,"181 State Street Bangor, Maine 04401",44.80467987000,-68.763000400000
 1975,The Bangor Area Homeless Shelter Bangor Maine,"263 Main Street Bangor, Maine 04401",44.79680252000,-68.773849400000
@@ -1990,13 +1990,13 @@
 1988,Milestone Foundation Emergency Shelter Portland Maine,"65 India st Portland, Maine 04101",43.66084950000,-70.250234700000
 1989,Penquis Journey House Dexter Maine,"59 Free Street Dexter, Maine 04930",45.01960373000,-69.288764900000
 1990,New Hope Women's Shelter Solon Maine,"111 South Main Street Solon, Maine 04979",44.94489288330,-69.852455139160
-1991,Crossroads House Portsmouth New Hampshire,"600 Lafayette Road Portsmouth, New Hampshire ",43.05314636230,-70.770477294922
+1991,Crossroads House Portsmouth New Hampshire,"600 Lafayette Road Portsmouth, New Hampshire 03801",43.05314636230,-70.770477294922
 1992,"New Generation, Inc. Greenland New Hampshire","568 Portsmouth Ave. Greenland, New Hampshire 03840",43.03658676147,-70.838973999023
-1993,Seacoast Interfaith Hospitality Network Stratham New Hampshire,"6 Emery lane, P O Box 233 Stratham, New Hampshire 03885",43.01741790771,-70.917198181152
+1993,Seacoast Interfaith Hospitality Network Stratham New Hampshire,"6 Emery lane P O Box 233 Stratham, New Hampshire 03885",43.01741790771,-70.917198181152
 1994,Seacoast Interfaith Hospitality Network - Overnight Shelter Stratham New Hampshire,"P.O. Box 233 Stratham, New Hampshire 03885",43.01179122925,-70.915710449219
 1995,Emmaus House Haverhill Massachusetts,"127 How Street Haverhill, Massachusetts 01831",42.77708435059,-71.081192016602
 1996,Sister Mary O'Donnell Homeless Shelter Presque Isle Maine,"745 Central Drive Presque Isle, Maine 04769",46.69082260000,-68.033813400000
-1997,Trinity Men's Shelter Skowhegan Maine,"12 McClellan St,  Suite 2 Skowhegan, Maine 04976",44.75887680000,-69.724548300000
+1997,Trinity Men's Shelter Skowhegan Maine,"12 McClellan St Suite 2 Skowhegan, Maine 04976",44.75887680000,-69.724548300000
 1998,Homeless and Travelers Aid Society Albany New York,"138 Central Avenue Albany, New York 12206",42.66059000000,-73.768254330000
 1999,HATAS - Homeless and Travelers Aid Society Albany New York,"138 Central Avenue Albany, New York 12206",42.66058600000,-73.768230000000
 2000,Albany Emergency Shelter Albany New York,"176 Sheridan Avenue Albany, New York 12210",42.65671910000,-73.757822400000
@@ -2010,7 +2010,7 @@
 2008,Bethesda House of Schenectady Inc. Schenectady New York,"834 State St Schenectady, New York 12307",42.80618040000,-73.933767000000
 2009,City Mission Men's Center Schenectady New York,"427 Hamilton Street Schenectady, New York 12305",42.81011617000,-73.942698000000
 2010,City Mission of Schenectady Family Life Center Schenectady New York,"311 Clinton Street Schenectady, New York 12305",42.81051400000,-73.942447000000
-2011,CAPTAIN CHS Runaway and Homeless Emergency Youth Shelter Clifton Park New York,"5 Municipal Plaza, Suite 3 Clifton Park, New York 12065",42.86294117000,-73.786002500000
+2011,CAPTAIN CHS Runaway and Homeless Emergency Youth Shelter Clifton Park New York,"5 Municipal Plaza Suite 3 Clifton Park, New York 12065",42.86294117000,-73.786002500000
 2012,Emergency Shelter - Community Services for Every1 Buffalo New York,"1179 Kenmore Avenue Buffalo, New York 14217",42.95868301000,-78.861724800000
 2013,St. Luke's Mission of Mercy Buffalo New York,"325 Walden Avenue Buffalo, New York 14211",42.90279200000,-78.824494000000
 2014,The Little Portion Friary Buffalo New York,"1305 Main St Buffalo, New York 14209",42.90902600000,-78.866113000000
@@ -2045,7 +2045,7 @@
 2043,	DOROTHY DAY HOSPITALITY HOUSE Danbury Connecticut,"11 Spring St.  Danbury, Connecticut 06810",41.39511108398,-73.457572937012
 2044,New Street Homeless Shelter Danbury Connecticut,"41 New St.  Danbury, Connecticut 06810",41.39480209351,-73.456657409668
 2045,City of Danbury Emergency Shelter Danbury Connecticut,"41 New Street Danbury, Connecticut 06810",41.39502716064,-73.455970764160
-2046,Franklin Women's Intake Shelter Bronx NY Bronx New York,1122 Franklin Avenue ,40.82877350000,-73.910308800000
+2046,Franklin Women's Intake Shelter Bronx NY Bronx New York,"1122 Franklin Avenue The Bronx, New York 10456",40.82877350000,-73.910308800000
 2047,Jericho Overflow Homeless Shelter Danbury Connecticut,"13 Maple Avenue Danbury, Connecticut 06810",41.39843368530,-73.452346801758
 2048,The Living Room Drop In Center Bronx Bronx New York,"800 Barretto St. Bronx, New York 10474",40.81683000000,-73.889820000000
 2049,Bergen County Community Action Crisis Services  Hackensack New Jersey,"392 Main Street Hackensack, New Jersey 07601",40.89060883000,-74.039279670000
@@ -2053,8 +2053,8 @@
 2051,Bergen County Human Services Center Hackensack New Jersey,"120 South River Street Hackensack, New Jersey 07601",40.87512589000,-74.040000900000
 2052,Borough of Ridgefield Welfare Department  - Assistance Ridgefield New Jersey,"604 Broad Ave Ridgefield, New Jersey 07657",40.83412170410,-74.009361267090
 2053,The Landing Family Shelter Queens New York,"94-00 Dimars Blvd Queens, New York 11369",40.76931000000,-73.875770000000
-2054,Lalitamba Saranam (Frederick's Place) New York New York,"P.O. Box 131, Planetarium Station New York, New York 10024",40.78594589000,-73.974189700000
-2055,Lalitamba Saranam New York New York,"PO Box 131, Planetarium Station New York, New York 10024",40.78620147705,-73.975883483887
+2054,Lalitamba Saranam (Frederick's Place) New York New York,"P.O. Box 131 Planetarium Station New York, New York 10024",40.78594589000,-73.974189700000
+2055,Lalitamba Saranam New York New York,"PO Box 131 Planetarium Station New York, New York 10024",40.78620147705,-73.975883483887
 2056,Lalitamba Saranam New York New York,"PO Box 131 New York, New York 10024",40.78577041630,-73.976013183600
 2057,Basics Housing Men's Shelter Manhattan New York New York,"106 W 83rd St New York, New York 10024",40.78460200000,-73.974331000000
 2058,Neighborhood Center for Homelessness New York New York,"237 E 77th St New York, New York 10075",40.77254000000,-73.956960000000
@@ -2065,7 +2065,7 @@
 2063,Grand Central Neighborhood Social Services Corporation (GCNSSC) New York City New York,"120 East 32nd Street New York City, New York 10016",40.75249863000,-73.974967900000
 2064,PERC Shelter - Emergency Homeless Housing Union City New Jersey,"108 36th St Union City, New Jersey 07087",40.77197266000,-74.022727900000
 2065,Metropolitan Community Church of New York New York New York,"446 W 36th St New York, New York 10018",40.75546646000,-73.997436500000
-2066,Breaking Ground New York New York,"505 Eighth Avenue, 5th Floor New York, New York 10018",40.75318000000,-73.993225800000
+2066,Breaking Ground New York New York,"505 Eighth Avenue 5th Floor New York, New York 10018",40.75318000000,-73.993225800000
 2067,Covenant House  Crisis Shelter NYC New York New York,"461 Eigth Avenue  New York, New York 10036",40.75199000000,-73.994060000000
 2068,Mainchance Drop-In Center New York New York,"120 E 32nd St New York, New York 10016",40.74531000000,-73.981400000000
 2069,Olivieri Drop-In Center New York New York,"257 West 30th Street New York, New York 10001",40.74954000000,-73.994400000000
@@ -2085,17 +2085,17 @@
 2083,Salvation Army Syracuse Syracuse New York,"677 South Salina Street Syracuse, New York 13202",43.04104233000,-76.150619500000
 2084,Oxford Street Inn Syracuse New York,"1074 South Clinton Street Syracuse, New York 13204",43.03686660000,-76.151219000000
 2085,South West Center - Suffolk County Deer Park New York,"2 South 2nd Street Deer Park, New York 11729",40.76649000000,-73.294960000000
-2086,Haven House Bridges Emergency Family Housing Brentwood ,"840 Suffolk Ave Brentwood,  11717",40.78176070000,-73.241580300000
+2086,Haven House Bridges Emergency Family Housing Brentwood ,"840 Suffolk Ave Brentwood, New York 11717",40.78176070000,-73.241580300000
 2087,Destiny Village - Transitional Housing West Babylon New York,"496 sunrise highway West Babylon, New York 10704",40.71295000000,-73.354850000000
 2088,Smithtown Center - Suffolk County Hauppauge New York,"200 Wireless Boulevard Hauppauge, New York 11788",40.81427920000,-73.266274500000
 2089,Coram Center - Suffolk County NY Coram New York,"80 Middle Country Road Coram, New York 11727",40.87225150000,-72.983386400000
 2090,The Veterans Place Yaphank New York,"32 Mill Rd. Yaphank, New York 11980",40.84089279000,-72.937530500000
-2091,Nassau County Department of Social Services  Uniondale ,"60 Charles Lindbergh Blvd Uniondale,  11553",40.72412030000,-73.602883800000
+2091,Nassau County Department of Social Services  Uniondale ,"60 Charles Lindbergh Blvd Uniondale, New York 11553",40.72412030000,-73.602883800000
 2092,Interfaith Nutrition Network - Mary Brennan INN Hempstead New York,"100 Madison Ave. Hempstead, New York 11550",40.70206451000,-73.628211900000
 2093,Restfull Nights Organization Inc. Jamaica New York,"106-38 150th st Jamaica, New York 11435",40.69499969000,-73.801269500000
 2094,Jamaica Armory Shelter For Women Jamaica New York,"9305 168th Street Jamaica, New York 11434",40.66667557000,-73.776039100000
 2095,Van Siclen Women's Shelter (Samartan Village) Brooklyn  New York,"246 Jamaica Avenue Brooklyn , New York 11207",40.68050385000,-73.892013500000
-2096,HELP Women's Shelter New York City Brooklyn New York,"116 Williams Avenue between Liberty Ave and Glenmore Ave Brooklyn, New York ",40.67476654000,-73.885353000000
+2096,HELP Women's Shelter New York City Brooklyn New York,"116 Williams Avenue between Liberty Ave and Glenmore Ave Brooklyn, New York 11207",40.67476654000,-73.885353000000
 2097,Barbara Kleiman Shelter Brooklyn New York,"300 Skillman Ave Brooklyn, New York 11211",40.71676350000,-73.938412000000
 2098,Magnolia House - Women's Shelter Brooklyn New York,"1424 Herkimer St Brooklyn, New York 11233",40.67716000000,-73.906220000000
 2099,Atlantic House Men's Shelter Brooklyn New York,"2402 Atlantic Avenue Brooklyn, New York 11233",40.67586000000,-73.905250000000
@@ -2143,17 +2143,17 @@
 2141,REAL House Inc. Juniper House Montclair New Jersey,"95 Grove Street Montclair, New Jersey 07042",40.81127548218,-74.209785461426
 2142,Real House Inc Women Shelter in Montclair New Jersey Montclair New Jersey,"95 Grove Street Montclair, New Jersey 07042",40.81127548218,-74.209785461426
 2143,Emergency Housing Services/ Urban Renewal Corp Myrtle Avenue Newark New Jersey,"12 Myrtle Avenue Newark, New Jersey 07103",40.75248360000,-74.193567700000
-2144,Essex County Citizen Service - Emergency Assistance East Orange New Jersey,"50 S Clinton Ave, Suite 5400 East Orange, New Jersey 07018",40.76221466064,-74.216285705566
+2144,Essex County Citizen Service - Emergency Assistance East Orange New Jersey,"50 S Clinton Ave Suite 5400 East Orange, New Jersey 07018",40.76221466064,-74.216285705566
 2145,Path - Homeless Case Management East Orange New Jersey,"300 Central Ave East Orange, New Jersey 07018",40.75402450562,-74.213348388672
 2146,Open Door Mission Rochester New York,"210 West Main Street Rochester, New York 14614",43.15447617000,-77.618476800000
 2147,Francis Center Men's Shelter Rochester New York,"547 Joseph Ave Rochester, New York 14605",43.17422485000,-77.607727000000
 2148,Genesis House Rochester New York," 70 Liberty Pole Way Rochester, New York 14604",43.15887000000,-77.604190000000
 2149,Emergency Housing Services/ Urban Renewal Corp Washington Street Newark New Jersey,"521 Washington Street Newark, New Jersey 07103",40.72708280000,-74.180256000000
 2150,Harmony House Transitional Living Facility Newark New Jersey,"278 South Orange Avenue Newark, New Jersey 07103",40.73923020000,-74.195979400000
-2151,Emergency Housing Services/ Urban Renewal Corp South 16th Street Newark ,"689 South 16th Street Newark,  07103",40.73174140000,-74.209801200000
+2151,Emergency Housing Services/ Urban Renewal Corp South 16th Street Newark ,"689 South 16th Street Newark, New Jersey 07103",40.73174140000,-74.209801200000
 2152,ANSWERS Moving Forward Inc. newark New Jersey,"712 Springfield Ave newark, New Jersey 07103",40.72977829000,-74.214660600000
 2153,Village for Humanity Homeless Services irvington New Jersey,"70 Ellis ave irvington, New Jersey 07111",40.72626495361,-74.218780517578
-2154,Gospel Services Benevolent Society Inc Irvington New Jersey,175 ,40.73232269287,-74.234870910645
+2154,Gospel Services Benevolent Society Inc Irvington New Jersey,"175 Munn Ave Irvington, New Jersey 07111",40.73232269287,-74.234870910645
 2155,Elizabeth Coalition to House the Homeless  Elizabeth New Jersey,"118 Division St Elizabeth, New Jersey 07201",40.66119766235,-74.199729919434
 2156,Salvation Army Emergency Shelter - Elizabeth Shelter Elizabeth New Jersey,"1018 E Grand St Elizabeth, New Jersey 07201",40.66567990000,-74.206184300000
 2157,YMCA of Eastern Union County Shelter Elizabeth New Jersey,"144 Madison Ave Elizabeth, New Jersey 07201",40.66568756104,-74.210517883301
@@ -2164,19 +2164,19 @@
 2162,Turning Point Community Services - Support Services Maplewood New Jersey,"PO Box 510 Maplewood, New Jersey 07040",40.73129654000,-74.270751900000
 2163,Trinity Soup Kitchen (Woodbridge) Trinity Episcopal Church Woodbridge New Jersey,"650 Rahway Avenue Woodbridge, New Jersey 07095",40.56348419189,-74.273200988770
 2164,180 Turning Lives Around Hazlet New Jersey,"1 Bethany Road Building 3 Hazlet, New Jersey 07730",40.41754150391,-74.177757263184
-2165,Warmth in the Night Honesdale Pennsylvania,"Grace Episcopal Church, 827 Church Street Honesdale, Pennsylvania 18431",41.57360458374,-75.255050659180
+2165,Warmth in the Night Honesdale Pennsylvania,"827 Church Street Honesdale, Pennsylvania 18431",41.57360458374,-75.255050659180
 2166,Tri State Warming Station  Port Jervis New York,"31 w Main Street  Port Jervis, New York 12771",41.37901800000,-74.691128000000
 2167,Rome Rescue Mission Rome New York,"413 East Dominick St Rome, New York 13440",43.20653915000,-75.447929300000
 2168,Darmstadt Shelter Kingston New York,"40 Thomas Street Kingston, New York 12401",41.92974472000,-74.001426700000
 2169,Family Inn Kingston New York,"38 Thomas Street Kingston, New York 12401",41.92967987000,-74.002082800000
 2170,FAMILY House - Short-term Shelter Rosendale New York,"Confidential Location Rosendale, New York 12472",41.84197998047,-74.078689575195
-2171,Bethlehem House I & II Stratford Connecticut,"389 Jackson Avenue, Unit I Stratford, Connecticut 06615",41.18601227000,-73.150764400000
+2171,Bethlehem House I & II Stratford Connecticut,"389 Jackson Avenue Unit I Stratford, Connecticut 06615",41.18601227000,-73.150764400000
 2172,Seaview Apartments Bridgeport Connecticut,"1826 Seaview Avenue Bridgeport, Connecticut 06610",41.18790817261,-73.170097351074
 2173,YMCA - CENTRAL CONNECTICUT COAST Emergency Family Shelter Bridgeport Connecticut,"309 Brooks Street Bridgeport, Connecticut 06608",41.19030380249,-73.179489135742
 2174,BETH-EL CENTER Milford Connecticut,"90 New Haven Ave Milford, Connecticut 06460",41.22292709351,-73.054786682129
 2175,Bridgeport Rescue Mission - Shelter for Single Adult Women Bridgeport Connecticut,"1037 Sylvan Avenue Bridgeport, Connecticut 06606",41.21611785889,-73.187469482422
 2176,Shelter for Homeless Mothers with Children ages 5 and under Bridgeport Connecticut,"1037 Sylvan Avenue Bridgeport, Connecticut 06606",41.21611785889,-73.187469482422
-2177,Domestic Violence Services / Saratoga Rape Crisis program Saratoga Springs New York,"480 Broadway, Lower Level 20 Saratoga Springs, New York 12866",43.07630157000,-73.769203100000
+2177,Domestic Violence Services / Saratoga Rape Crisis program Saratoga Springs New York,"480 Broadway Lower Level 20 Saratoga Springs, New York 12866",43.07630157000,-73.769203100000
 2178,Mother Susan Anderson - Women and Children Emergency Shelter Saratoga Springs New York,"60 Caroline Street Saratoga Springs, New York 12866",43.08155920000,-73.782281100000
 2179,Opportunities for Otsego Emergency Housing Shelter Oneonta New York,"3 W Broadway Oneonta, New York 13820",42.44773865000,-75.070938100000
 2180,Rescue Mission of Utica Utica New York,"212 Rutger Street Utica, New York 13501",43.09733582000,-75.231048500000
@@ -2192,7 +2192,7 @@
 2190,Webster House Emergency Housing Poughkeepsie New York,"29 North Hamilton Street Poughkeepsie, New York 12601",41.70037079000,-73.920967100000
 2191,Department of Community and Family Services (DCFS) Poughkeepsie New York,"60 Market Street Poughkeepsie, New York 12601",41.70233000000,-73.929990000000
 2192,HONOR - Helping Others Needing Our Resources  Middletown New York,"38 Seward Ave Middletown, New York 10940",41.45437150000,-74.437930200000
-2193,BRADFORD Bradford County Human Services Towanda Pennyslvania,"220 Main Street, Unit One  Towanda, Pennyslvania ",41.84704971313,-76.501716613770
+2193,BRADFORD Bradford County Human Services Towanda Pennyslvania,"220 Main Street, Unit One  Towanda, Pennsylvania 18848",41.84704971313,-76.501716613770
 2194,Epiphany House Transitional Substance Abuse Women's Recovery Asbury Park New Jersey,"1110 Grand Ave Asbury Park, New Jersey 07712",40.22327804565,-74.005714416504
 2195,Hope House for Families Erie Pennsylvania,"1033 E. 26th St Erie, Pennsylvania 16504",42.12029647827,-80.050430297852
 2196,The Refuge Erie Pennsylvania,"1027 E. 26th St. Erie, Pennsylvania 16502",42.12025452000,-80.050544700000
@@ -2200,7 +2200,7 @@
 2198,St. Patrick’s Haven Erie Pennsylvania,"147 E. 12th St. Erie, Pennsylvania 16503",42.12428283691,-80.078720092773
 2199,Community of Caring Erie Pennsylvania,"245 E. 8th St. Erie, Pennsylvania 16503",42.12915039000,-80.079025200000
 2200,City Mission New Life Center Erie Pennsylvania,"1017 French St Erie, Pennsylvania 16512",42.12553200000,-80.080624000000
-2201,ERIE Erie County Department of Human Services Erie Pennsylvania,"Office of Mental Health & Mental Retardation, 154 West Ninth Street Erie, Pennsylvania 16501",42.12410354614,-80.084220886230
+2201,ERIE Erie County Department of Human Services Erie Pennsylvania,"Office of Mental Health & Mental Retardation 154 West Ninth Street Erie, Pennsylvania 16501",42.12410354614,-80.084220886230
 2202,Community Shelter Services Erie Pennsylvania,"652 W. 17th St. Erie, Pennsylvania 16502",42.11408233643,-80.093078613281
 2203,Liberty House Erie Pennsylvania,"550 W. 7th St Erie, Pennsylvania 16502",42.12411499023,-80.096748352051
 2204,WAIT House Glens Falls New York,"10-12 Wait St. Glens Falls, New York 12801",43.31337738000,-73.648582400000
@@ -2302,7 +2302,7 @@
 2300,Horizon House Indianapolis ,"1033 E. Washington St. Indianapolis,  46202",39.76654820000,-86.139437000000
 2301,Good News Mission Indianapolis Indiana,"2716 E. Washington Street Indianapolis, Indiana 46142",39.66461945000,-86.125106800000
 2302,Wellspring Center Martinsville Indiana,"301 West Harrison Street  Martinsville, Indiana 46151",39.42963028000,-86.432327200000
-2303, Becky's Place For Women and Children Bedford ,"1108 5th Street Bedford,  47421",38.87402800000,-86.486158000000
+2303, Becky's Place For Women and Children Bedford ,"1108 5th Street Bedford, Indiana 47421",38.87402800000,-86.486158000000
 2304,Shalom Community Center Bloomington Indiana,"620 S Walnut St Bloomington, Indiana 47401",39.15862590000,-86.533903000000
 2305,Middle Way House Bloomington Indiana,"PO Box 95 Bloomington, Indiana 47402",39.16519928000,-86.529197600000
 2306,Wheeler Mission Ministries Center for Women And Children Bloomington Indiana,"400 S. Opportunity Ln Bloomington, Indiana 47404",39.16344390000,-86.567290000000
@@ -2315,7 +2315,7 @@
 2313,Light House Mission Terre Haute Indiana,"1450 Wabash Avenue Terre Haute, Indiana 47807",39.46852112000,-87.393623300000
 2314,C.O.D.A. Family Crisis Center Terre Haute Indiana,"4470 South Houseman Street Terre Haute, Indiana 47808",39.41246300000,-87.382331000000
 2315,Family Support Services of West Central Indiana  Greencastle Indiana,"16 South Jackson Street Greencastle, Indiana 46135",39.64369200000,-86.865687000000
-2316,Beyond Homeless Inc Greencastle Indiana,"309 East Franklin Street Greencastle, Indiana ",39.64476500000,-86.860716000000
+2316,Beyond Homeless Inc Greencastle Indiana,"309 East Franklin Street Greencastle, Indiana 46135",39.64476500000,-86.860716000000
 2317,Another Chance Christ Ministries Vincennes Indiana,"9 N 5th Street Vincennes, Indiana 47591",38.67758942000,-87.529960600000
 2318,Gabriel's Horn Homeless Shelter Valparaiso Indiana,"792 McCool Rd.  Valparaiso, Indiana 46385",41.54883957000,-87.143447800000
 2319,Gabriel's Horn Homeless Shelter Portage Indiana,"792 McCool Rd Portage, Indiana 46368",41.54919100000,-87.144179000000
@@ -2393,10 +2393,10 @@
 2391,The Salvation Army Shield of Hope Chicago Chicago Illinois,"924 N Christiana Ave Chicago, Illinois 60651",41.89786500000,-87.710272000000
 2392,La Posada Family Shelter - Casa Central Chicago Illinois,"3209 W. Evergreen Chicago, Illinois 60651",41.90551569690,-87.707255266700
 2393,La Casa Norte - Casa Corazon Emergency Beds Program Chicago Illinois,"3533 W. North Avenue Chicago, Illinois 60647",41.90979410000,-87.715799000000
-2394,Broadway Youth Center Chicago ,"4009 N Broadway Chicago,  60613",41.95493950000,-87.650565900000
+2394,Broadway Youth Center Chicago ,"4009 N Broadway Chicago, Illinois 60613",41.95493950000,-87.650565900000
 2395,Cornerstone Community Outreach Chicago Illinois,"4628 N Clifton Ave Chicago, Illinois 60640",41.96634293000,-87.658645600000
 2396,Sarah's Circle Chicago Illinois,"4838 N Sheridan Rd Chicago, Illinois 60640",41.97024110000,-87.655119700000
-2397,North Side Housing and Supportive Services Chicago Illinois,"4410 N. Ravenswood,  suite 101 Chicago, Illinois 60640",41.96195570000,-87.674863800000
+2397,North Side Housing and Supportive Services Chicago Illinois,"4410 N. Ravenswood suite 101 Chicago, Illinois 60640",41.96195570000,-87.674863800000
 2398,Emergency Shelter Services  Inc. Benton Harbor Michigan,"645 Pipestone Street Benton Harbor, Michigan 49022",42.10641098022,-86.445007324219
 2399,Salvation Army Men's Shelter Benton Harbor Michigan,"233 Michigan Street Benton Harbor, Michigan 49022",42.11391448975,-86.454933166504
 2400,Southwest Michigan Community Action Agency Benton Harbor Michigan,"185 E Main Street Benton Harbor, Michigan 49022",42.11647415161,-86.454055786133
@@ -2429,7 +2429,7 @@
 2427,The Homeless Charity Akron Ohio,"15 Broad Street Akron, Ohio 44305",41.07133000000,-81.488080000000
 2428,H.O.P.E Ministries Sober Living Barberton Ohio,"122 21st Nw Barberton, Ohio 44203",41.01319504000,-81.626716600000
 2429,Miller Community House Kent Ohio,"1211 Anita Dr Kent, Ohio 44240",41.16159800000,-81.388646000000
-2430,Veterans Administration Vets Domiciliary Brecksville ,"10000 Brecksville Rd Brecksville,  44141",41.29369660000,-81.629233400000
+2430,Veterans Administration Vets Domiciliary Brecksville ,"10000 Brecksville Rd Brecksville, Ohio 44141",41.29369660000,-81.629233400000
 2431,Refuge of Hope Canton Ohio,"715 Second St NE Canton, Ohio 44702",40.79821500000,-81.368600000000
 2432,Volunteers of America Shelter For Men Cleveland Ohio,"2710 Walton Avenue Cleveland, Ohio 44113",41.47146988000,-81.700714100000
 2433,City Mission Laura's Home Women's Crisis Center Cleveland Ohio,"18120 Puritas Ave Cleveland, Ohio 44135",41.43470510000,-81.824372800000
@@ -2438,7 +2438,7 @@
 2436,Warren Family Mission Warren Ohio,"2671 Youngstown Warren Rd Warren, Ohio 44484",41.19947815000,-80.731819100000
 2437,Bridges of Hope Xenia Ohio,"1087 W 2nd St Xenia, Ohio 45385",39.68022000000,-83.949720000000
 2438,Schneider House of Hope/IHN Xenia Ohio,"125 S Detroit Ave Xenia, Ohio 45385",39.68361080000,-83.931282700000
-2439,Mary Queen of Peace House  Dayton Ohio,"100 Huffman Avenue, Ste. 305 Dayton, Ohio 45403",39.76112747000,-84.166275000000
+2439,Mary Queen of Peace House  Dayton Ohio,"100 Huffman Avenue Ste. 305 Dayton, Ohio 45403",39.76112747000,-84.166275000000
 2440,Daybreak Dayton Ohio,"605 S Patterson Blvd Dayton, Ohio 45402",39.75025177000,-84.190132100000
 2441,St. Vincent de Paul Dayton Dayton Ohio,"1133 Edwin C. Moses Blvd. Suite 308 Dayton, Ohio 45417",39.74203491000,-84.195396400000
 2442,YWCA of Dayton Dayton Ohio,"141 E 3rd St Dayton, Ohio 45402",39.76005554000,-84.188598600000
@@ -2474,7 +2474,7 @@
 2472,West Side Catholic Shelter For Women Cleveland Ohio,"3135 Lorain Avenue Cleveland, Ohio 44113",41.48195648000,-81.708671500000
 2473,Stella Maris Cleveland Cleveland Ohio,"1320 Washington St Cleveland, Ohio 44113",41.49342670000,-81.707135400000
 2474,St. Herman's House of Hospitality  Cleveland Ohio,"4410 Franklin Blvd Cleveland, Ohio 44113",41.48566055000,-81.717086700000
-2475,Cogswell Hall Cleveland Ohio,"7200 Franklin Blvd., Suite 100 Cleveland, Ohio 44102",41.48113800000,-81.734629170000
+2475,Cogswell Hall Cleveland Ohio,"7200 Franklin Blvd. Suite 100 Cleveland, Ohio 44102",41.48113800000,-81.734629170000
 2476,Bridgeway Inc. Stricklin Crisis Center  Cleveland Ohio,"8315 Detroit Cleveland, Ohio 44102",41.48044500000,-81.741690000000
 2477,Helping Hands Ministry Day Shelter Youngstown ,"1555 Belmont Ave Youngstown,  44504",41.12065740000,-80.658761400000
 2478,YWCA Barbara Wick Transitional House Youngstown Ohio,"25 West Rayen Avenue Youngstown, Ohio 44503",41.10300780000,-80.648254700000
@@ -2554,7 +2554,7 @@
 2552,Latrobe Street Mission Parkersburg West Virginia,"1725 Latrobe St Parkersburg, West Virginia 26101",39.27383804000,-81.542488100000
 2553,House To Home Parkersburg West Virginia," 413 8th Street Parkersburg, West Virginia 26101",39.26613998413,-81.556137084961
 2554,Salvation Army Parkersburg Shelter Parkersburg West Virginia,"534 5th Street Parkersburg, West Virginia 26101",39.26280975000,-81.558242800000
-2555,WASHINGTON Washington County Homeless Services Washington Pennsylvania,"100 West Beau Street, Suite 703 Washington, Pennsylvania 15301",40.17050552368,-80.247154235840
+2555,WASHINGTON Washington County Homeless Services Washington Pennsylvania,"100 West Beau Street Suite 703 Washington, Pennsylvania 15301",40.17050552368,-80.247154235840
 2556,Washington City Mission Washington Pennsylvania,"84 W. Wheeling Street Washington, Pennsylvania 15301",40.16886139000,-80.247062600000
 2557,Family Promise of Soutwestern Pennsylvania Washington Pennsylvania,"297 E. Beau Street Washington, Pennsylvania 15301",40.17206954956,-80.238632202148
 2558,Northwestern Michigan Human Services Agency Traverse City Michigan,"3963 Three Mile Road Traverse City, Michigan 49684",44.74231338501,-85.560585021973
@@ -2597,7 +2597,7 @@
 2595,Bethlehem House Detroit Michigan,"5063 Van Dyke Ave. Detroit, Michigan 48213",42.37883377075,-83.014717102051
 2596,Operation Get Down Detroit Michigan,"10100 Harper Avenue Detroit, Michigan 48213",42.39326858521,-83.003456115723
 2597,Common Ground Sanctuary Royal Oak Michigan,"1222 South Washington Royal Oak, Michigan 48061",42.47883987427,-83.146606445313
-2598,GENESIS ONE TRANSITIONAL YOUTH CENTER DETROIT ,"14353 EAST CANFIELD STREET DETROIT,  48224",42.39213180542,-82.957061767578
+2598,GENESIS ONE TRANSITIONAL YOUTH CENTER DETROIT ,"14353 EAST CANFIELD STREET DETROIT, Michigan 48224",42.39213180542,-82.957061767578
 2599,Eastside Emergency Center Detroit Michigan,"5075 Chalmers Ave Detroit, Michigan 48213",42.39642510000,-82.959849500000
 2600,Welcome Inn Day Center for the Homeless Berkley Michigan,"2855 Wiltshire Berkley, Michigan 48072",42.49852753000,-83.187339700000
 2601,Great Oaks Transitional Home LLC. Detroit Michigan,"4813 Devonshire Detroit, Michigan 48224",42.40010370000,-82.941203800000
@@ -2613,7 +2613,7 @@
 2611,HAVEN Shelter for Women and Children Pontiac Michigan,"P.O. Box 431045 Pontiac, Michigan 48343",42.63806440000,-83.302434700000
 2612,HOPE Hospitality & Warming Center Pontiac Michigan,"249 Baldwin Avenue Pontiac, Michigan 48342",42.65155020000,-83.299715000000
 2613,Family Youth Interventions Transitional Living Program Mount Clemens Michigan,"235 Cass Ave. Mount Clemens, Michigan 48043",42.59747500000,-82.888209000000
-2614,Macomb County Warming Center  Mt. Clemens Michigan,"2 Crocker Blvd., Suite 201 Mt. Clemens, Michigan 48043",42.59566580000,-82.876310000000
+2614,Macomb County Warming Center  Mt. Clemens Michigan,"2 Crocker Blvd. Suite 201 Mt. Clemens, Michigan 48043",42.59566580000,-82.876310000000
 2615,Hispanic Center of Western Michigan Grand Rapids Michigan,"730 Grandville Ave S W Grand Rapids, Michigan 49503",42.94942092896,-85.678100585938
 2616,Mel Trotter Ministries Grand Rapids Michigan,"225 Commerce Ave Sw Grand Rapids, Michigan 49503",42.95910644531,-85.669288635254
 2617,Degage Ministries Open Door Grand Rapids Michigan,"144 S. Division Ave.  Grand Rapids, Michigan 49503",42.96087646000,-85.667778000000
@@ -2630,7 +2630,7 @@
 2628,Family Promise of the Lakeshore Muskegon Michigan,"2160 Crozier Ave Muskegon, Michigan 49441",43.20979000000,-86.296270000000
 2629,Salvation Army Alma Michigan,"425 Republic Avenue Alma, Michigan 48801",43.38009643555,-84.641311645508
 2630,Gratiot County Hope House St. Louis Michigan,"1001 W. Washington St. St. Louis, Michigan 48880",43.40727800000,-84.623567000000
-2631,Isabella County Restoration House Mount Pleasant ,"PO Box 698 Mount Pleasant,  48858",43.59780750000,-84.767513900000
+2631,Isabella County Restoration House Mount Pleasant ,"PO Box 698 Mount Pleasant, Michigan 48858",43.59780750000,-84.767513900000
 2632,Shelterhouse - Domestic Violence Shelter Midland Michigan,"3115 Isabella Street Midland, Michigan 48640",43.61224750000,-84.286011000000
 2633,Open Arms Ministry Center Weidman Michigan,"3337 1st St. Weidman, Michigan 48893",43.68842315674,-84.966094970703
 2634,Sunrise Mission Alpena Michigan,"622 W. Chisholm Alpena, Michigan 49707",45.06728744507,-83.439674377441
@@ -2685,7 +2685,7 @@
 2683,Haven House East Lansing Michigan,"121 Whitehills Drive  East Lansing, Michigan 48823",42.74518203735,-84.483253479004
 2684,Gateway Community Services East Lansing Michigan,"2875 Northwind Drive Ste 105 East Lansing, Michigan 48823",42.72497177000,-84.454811100000
 2685,Joshua's House - Maternity Home Clare Michigan,"508 E. 5th Street Clare, Michigan 48617",43.81869540000,-84.759558000000
-2686,Oakbridge Inn LLC Clare  ,"10100 S. Clare Ave Clare ,  48625",43.84086960000,-84.768204900000
+2686,Oakbridge Inn LLC Clare  ,"10100 S. Clare Ave Clare , Michigan 48625",43.84086960000,-84.768204900000
 2687,New Dawn Shelter of Gladwin County Gladwin Michigan,"137 Commerce St Gladwin, Michigan 48624",43.99333080000,-84.485708000000
 2688,Hope at the Inn (HATI)  Escanaba Michigan,"3001 Fifth Avenue, South Escanaba, Michigan 49829",45.73946381000,-87.079231200000
 2689,Delta County Alliance Against Violence & Abuse Escanaba Michigan,"140 N. 26th Street Escanaba, Michigan 49829",45.74621200562,-87.084701538086
@@ -2707,8 +2707,8 @@
 2705,SSMHC's Tri-County Safe Haven Sault Ste. Marie Michigan,"608 Pine Street Sault Ste. Marie, Michigan 49783",46.49734497070,-84.353698730469
 2706,Elizabeth Inn Emergency Shelter (Marietta) Marietta Georgia,"55 Elizabeth Church Road Marietta, Georgia 30060",33.97738530000,-84.551576000000
 2707,Good Neighbor Homeless Shelter (Cartersville) Cartersville Georgia,"110 Porter Street Cartersville, Georgia 30120",34.17891693000,-84.801422100000
-2708,Center for Family Resources Housing Assistance Marietta Georgia,"995 Roswell Street NE, Suite 100 Marietta, Georgia 30060",33.95171800000,-84.525308700000
-2709,The Center For Family Resources Marietta Georgia,"995 Roswell Street, NE, Suite 100 Marietta, Georgia 30060",33.95176110000,-84.523162900000
+2708,Center for Family Resources Housing Assistance Marietta Georgia,"995 Roswell Street NE Suite 100 Marietta, Georgia 30060",33.95171800000,-84.525308700000
+2709,The Center For Family Resources Marietta Georgia,"995 Roswell Street NE Suite 100 Marietta, Georgia 30060",33.95176110000,-84.523162900000
 2710,Men's Assessment Center Douglasville Georgia,"6976 Bankhead Hwy Douglasville, Georgia 30134",33.76435089000,-84.720321600000
 2711,Douglas County Homeless Shelter Douglasville Georgia,"1755 Sandy Lane Douglasville, Georgia 30134",33.75828700000,-84.723295400000
 2712,Family Promise of North Fulton - DeKalb Dunwoody Georgia,"1978 Mount Vernon Rd. Dunwoody, Georgia 30338",33.95103060000,-84.320586000000
@@ -2731,7 +2731,7 @@
 2729,The Shepherd's Inn Downtown Atlanta Homeless Shelter Atlanta Georgia,"165 Ivan Allen Blvd NW Atlanta, Georgia 30313",33.76467896000,-84.392807000000
 2730,Gateway Center Atlanta Atlanta Georgia,"275 Pryor St., SW Atlanta, Georgia 30303",33.74733734000,-84.394355700000
 2731,Trinity Community MInistries Atlanta Georgia,"21 Bell Street Northeast Atlanta, Georgia 30303",33.74808502000,-84.389991700000
-2732,Serenity House of Atlanta Ministries Atlanta Georgia,"Address Not Provided for safety reasons Atlanta, Georgia ",33.74899540000,-84.387982000000
+2732,Serenity House of Atlanta Ministries Atlanta Georgia,"600 Main St Atlanta, Georgia 30058",33.74899540000,-84.387982000000
 2733,"Our House, Inc. Atlanta Georgia","173 Boulevard NE Atlanta, Georgia 30312",33.75917550000,-84.371742500000
 2734,Jars of Clay Outreach - Kingdom Worship Center Atlanta Georgia,"937 Sims St., SW Atlanta, Georgia 30310",33.72917557000,-84.403427100000
 2735,"Nicholas House, Inc. Atlanta Georgia","830 Boulevard SE Atlanta, Georgia 30316",33.73182270000,-84.367952000000
@@ -2769,7 +2769,7 @@
 2767,Mercy Ministries - Day Center Augusta Georgia,"1739 Fenwick Street Augusta, Georgia 30904",33.47846222000,-81.996177600000
 2768,Mercy Ministries Day Shelter For Homeless Augusta Georgia,"1739 Fenwick Street Augusta, Georgia 30904",33.47853700000,-81.996124000000
 2769,The Salvation Army Center of Hope Shelter Augusta Georgia,"1384 Greene Street Augusta, Georgia 30901",33.47696304000,-81.979644700000
-2770,Garden City Rescue Mission Augusta ,"828 Fenwick St Augusta,  30901",33.46933980000,-81.969509500000
+2770,Garden City Rescue Mission Augusta ,"828 Fenwick St Augusta, Georgia 30901",33.46933980000,-81.969509500000
 2771,Head of the Giant Ministry Shelter Augusta Georgia,"2136 Circular Dr Augusta, Georgia 30903",33.42265670000,-82.023712800000
 2772,Augusta Rescue Mission Augusta Georgia,"526 Walker Street Augusta, Georgia 30901",33.46909390000,-81.961765600000
 2773,Mt. Salem Outreach Mission Gloverville South Carolina,"2534 Augusta Rd Gloverville, South Carolina 29828",33.52113420000,-81.837821000000
@@ -2786,7 +2786,7 @@
 2784,Daybreak center Macon  Georgia,"174 Walnut St.  Macon , Georgia 31201",32.83497800000,-83.622772700000
 2785,Open Hearts Community Mission Statesboro Georgia,"201 Martin Luther King Jr Dr Statesboro, Georgia 30458",32.44757930000,-81.788205000000
 2786,Community Shelter - United Community Ministries Rocky Mount North Carolina,"341 McDonald Street Rocky Mount, North Carolina 27804",35.05010470000,-83.415075700000
-2787,Habersham Homeless Ministries Clarkesville Georgia,Office only ,34.67075540000,-83.537213000000
+2787,Habersham Homeless Ministries Clarkesville Georgia,"105 Dove Lane Clarkesville, Georgia 30523",34.67075540000,-83.537213000000
 2788,Garden of Gethsemane Shelter Covington Georgia,"7133 Turner Lake Circle Covington, Georgia 30014",33.59086990000,-83.879440300000
 2789,The Salvation Army Milledgeville Milledgeville Georgia,"461 E. Hancock Street Milledgeville, Georgia 31061",33.08204320000,-83.220627700000
 2790,Salvation Army of Anderson County - Shelter Anderson South Carolina,"106 Tolly St Anderson, South Carolina 29624",34.50151443000,-82.654121400000
@@ -2808,7 +2808,7 @@
 2806,New Life Evangelistic Center Homeless Shelter Potosi Mineral Point Missouri,"10057 Jaguar Rd Mineral Point, Missouri 63660",37.94477081299,-90.724296569824
 2807,Harvest House Inc Boonville Missouri,"1224 Rural Street Boonville, Missouri 65233",38.97990799000,-92.733634900000
 2808,The True North Emergency Shelter Columbia Missouri,"PO Box 1367 Columbia, Missouri 65205",38.96598815918,-92.374931335449
-2809,First Step Back Home Lake St Louis Missouri,"Not disclosed Lake St Louis, Missouri ",38.78093719000,-90.788360600000
+2809,First Step Back Home Lake St Louis Missouri,"18 Auvergne Drive Lake St. Louis, Missouri 63367",38.78093719000,-90.788360600000
 2810,Lake Area Helping Hands  Homeless Shelter Camdenton Missouri,"68 Holden Drive Camdenton, Missouri 65020",37.99718230000,-92.763661900000
 2811,Martha Vance Samaritan Outreach Center West Plains Missouri,"715 Missouri Ave West Plains, Missouri 65775",36.73601060000,-91.859610000000
 2812,Salvation Army Shelter Quincy Quincy Illinois,"501 Broadway St Quincy, Illinois 62301",39.93611908000,-91.407997100000
@@ -2823,9 +2823,9 @@
 2821,Columbia MO Men Only Shelter Columbia Missouri,"901 Wilkes Blvd Columbia, Missouri 65201",38.96022415161,-92.326637268066
 2822,Welcome Home  Inc.- Serving Homeless Veterans Columbia Missouri,"1206 Rangeline Columbia, Missouri 65201",38.96303558000,-92.324569700000
 2823,Salvation Army Harbor House Shelter Columbia Missouri,"602 North Ann Street Columbia, Missouri 65201",38.95767593000,-92.313644400000
-2824,Presbyterian Children's Transitional Housing for Boys and Girls Columbia Missouri,"409 Vandiver West, Bldg. 5, Suite 203 Columbia, Missouri 65202",38.97168360000,-92.330875300000
+2824,Presbyterian Children's Transitional Housing for Boys and Girls Columbia Missouri,"409 Vandiver West Bldg. 5 Suite 203 Columbia, Missouri 65202",38.97168360000,-92.330875300000
 2825,Rainbow House - Children's Emergency Shelter Columbia Missouri,"1611 Towne Drive Columbia, Missouri 65202",38.96930450000,-92.304690600000
-2826,Wiley House Emergency Shelter for Men and Women Fulton ,"831 Jefferson Fulton,  65251",38.85358350000,-91.949724500000
+2826,Wiley House Emergency Shelter for Men and Women Fulton ,"831 Jefferson Fulton, Missouri 65251",38.85358350000,-91.949724500000
 2827,"Salvation Army Jefferson City, MO Center of Hope Family Shelter Jefferson City Missouri"," 	  907 Jefferson Street Jefferson City, Missouri 65101",38.57066630000,-92.179794900000
 2828,Closed: New Life Evangelistic Center Shelter For Men Van Buren Van Buren Missouri,"Rt 1 Box 92 Van Buren, Missouri 63965",36.99560547000,-91.014572100000
 2829,Agape House Of Franklin County Saint Clair Missouri,"1095 N. Service Rd. West Saint Clair, Missouri 63077",38.36130524000,-90.980819700000
@@ -2874,7 +2874,7 @@
 2872,Smithfield Rescue Mission Smithfield North Carolina,"523 Glenn Street Smithfield, North Carolina 27577",35.49869537000,-78.348876900000
 2873,New Life Mission Mens Shelter Fayetteville North Carolina,"303 Maloney Avenue Fayetteville, North Carolina 28301",35.05674000000,-78.867704000000
 2874,New Start New Beginning Shelter For The Homeless & Battered Women Fayetteville North Carolina,"1401 Coley Drive Fayetteville, North Carolina 28301",35.07457351685,-78.898406982422
-2875,True Vine Ministries' Hope Center Fayetteville ,"913 Person Street Fayetteville,  28301",35.04783060000,-78.861684900000
+2875,True Vine Ministries' Hope Center Fayetteville ,"913 Person Street Fayetteville, North Carolina 28301",35.04783060000,-78.861684900000
 2876,Gospel Services Hope Center Fayetteville North Carolina,"913 Person Street Fayetteville, North Carolina 28301",35.04783248901,-78.861694335938
 2877,Teague's Home for Women Fayetteville North Carolina,"333 Hawley Lane Fayetteville, North Carolina 28301",35.05353164673,-78.871688842773
 2878,Salvation Army of Cumberland County Emergency Shelter Fayetteville North Carolina,"425 Alexander Street Fayetteville, North Carolina 28301",35.04889000000,-78.874175000005
@@ -2937,13 +2937,13 @@
 2935,Second Chance Mission of Hope Inc. Jacksonville North Carolina,"309 Court St Jacksonville, North Carolina 28540",34.74745920000,-77.432324000000
 2936,"Brunswick County Streetreach, Inc.  Shallotte North Carolina","P.O. Box 1331  Shallotte, North Carolina 28459",33.93999863000,-78.410003600000
 2937,North Strand Housing Shelter Longs South Carolina,"2335 HWY 9 West Longs, South Carolina  29568",33.99497604370,-78.751251220703
-2938,Push Faith House Jarratt Virginia,"205 Jarratt Avenue, Ste #A Jarratt, Virginia 23867",36.81429833000,-77.468673670000
+2938,Push Faith House Jarratt Virginia,"205 Jarratt Avenue Ste #A Jarratt, Virginia 23867",36.81429833000,-77.468673670000
 2939,King's Court Shelter Mullins ,"1001 N Main Street Mullins,   2957",34.22173160000,-79.258479500000
 2940,House of Blessings Shelter Mullins South Carolina,"110 E Proctor St Mullins, South Carolina  29574",34.19804000854,-79.251953125000
 2941,Street Reach Ministries of Myrtle Beach Myrtle Beach South Carolina,"1005 Osceola St   Myrtle Beach, South Carolina 29577",33.68007278000,-78.898284900000
 2942,Good Samaritan House Homeless Shelter London Kentucky,"220 East 4th ST London, Kentucky 40741",37.12930679000,-84.081413200000
 2943,Room In The Inn Nelson County Bardstown Kentucky,"310 N. 2nd Street Bardstown, Kentucky 40004",37.81214820000,-85.464234000000
-2944,Operation Care Shelbyville ,"708 Main St Shelbyville,  40065",38.21091200000,-85.219314000000
+2944,Operation Care Shelbyville ,"708 Main St Shelbyville, Kentucky 40065",38.21091200000,-85.219314000000
 2945,The Center for Women and Families Shelbyville Office Shelbyville Kentucky,"500 Main St Shelbyville, Kentucky 40065",38.21049500000,-85.216025000000
 2946,Open Door of Hope Shelbyville Kentucky,"211 8th street Shelbyville, Kentucky 40065",38.21364975000,-85.220085100000
 2947,Paducah Cooperative Ministry Paducah Kentucky,"402 Legion Drive Paducah, Kentucky 42003",37.05901718000,-88.588027900000
@@ -2975,7 +2975,7 @@
 2973,Bethany House Spouse Abuse Center Somerset Kentucky,"P.O. Box 864 Somerset, Kentucky 42501",37.06616710000,-84.614858900000
 2974,East Kentucky House of Hope Martin Kentucky,"644 Kentucky Highway 122 Martin, Kentucky 41649",37.55580000000,-82.754980000000
 2975,Gateway Homeless Coalition Morehead Kentucky,"695 Flemingsburg Rd. Morehead, Kentucky 40351",38.18074417000,-83.446716300000
-2976,Mountain Haven Emergency Shelter Morehead Kentucky,"1034 East Main Street, Level 2 Morehead, Kentucky 40351",38.19158600000,-83.419124000000
+2976,Mountain Haven Emergency Shelter Morehead Kentucky,"1034 East Main Street Level 2 Morehead, Kentucky 40351",38.19158600000,-83.419124000000
 2977,Family Promise of Pickens County Easley South Carolina,"111 Hillcrest Ave Easley, South Carolina  2964",34.82278190000,-82.590271000000
 2978,TLC Ministries of Beaufort Beaufort South Carolina,"PO Box 2537  Beaufort, South Carolina 29901",32.43000031000,-80.669998100000
 2979,Streets of America Homeless Outreach Beaufort South Carolina,"19 Santee Lane Beaufort, South Carolina 29906",32.49947600000,-80.728622000000
@@ -3002,7 +3002,7 @@
 3000,Greenwood Pathway House Greenwood South Carolina,"208 Panola Avenue Greenwood, South Carolina 29646",34.17342800000,-82.151289700000
 3001,Lakelands Veterans Home Greenwood South Carolina,"711 Scotch Cross Road-East Greenwood, South Carolina 29646",34.14024734497,-82.109573364258
 3002,HADIT Home for Veterans Conway South Carolina,"1201 Leatherman Road Conway, South Carolina 29527",33.85500483000,-79.111702170000
-3003,St Vincent De Paul Society Food Pantry Murrrells Inlet ,"542 Cypress Avenue Murrrells Inlet,  29576",33.58881990000,-79.003481700000
+3003,St Vincent De Paul Society Food Pantry Murrrells Inlet ,"542 Cypress Avenue Murrrells Inlet, South Carolina 29576",33.58881990000,-79.003481700000
 3004,HADIT Home for Veterans Murrells Inlet South Carolina,"23 Crooked Island Circle Murrells Inlet, South Carolina 29576",33.54011000000,-79.061540000000
 3005,Low Country Shelter Association Mullins South Carolina,"4825 S. Highway 41 Mullins, South Carolina 29574",34.09014130000,-79.298431400000
 3006,PDCAA Shelter for the Homeless Florence South Carolina,"411 S. Jarrott Street Florence, South Carolina 29506",34.19154739000,-79.759315400000
@@ -3010,7 +3010,7 @@
 3008,House of Hope of the Pee Dee Florence South Carolina,"1020 Darlington Street Florence, South Carolina 29501",34.19954510000,-79.785586000000
 3009,Northern Virginia Family Service Oakton Virginia,"10455 White Granite Drive  Suite 100 Oakton, Virginia 22124",38.87354100000,-77.305517000000
 3010,Bill Mehr Drop In Center Woodbridge Virginia,"14730 Potomac Mills Road Woodbridge, Virginia 22192",38.62911700000,-77.295461000000
-3011,Prince William County Winter Shelter Woodbridge ,"14730 Potomac Mills Rd  Woodbridge,  22192",38.62906750000,-77.297631100000
+3011,Prince William County Winter Shelter Woodbridge ,"14730 Potomac Mills Rd  Woodbridge, Virginia 22192",38.62906750000,-77.297631100000
 3012,StreetLight Overnight Shelter  Woodbridge Virginia,"14730 Potomac Mills Road Woodbridge, Virginia 22192",38.62906750000,-77.297631100000
 3013,Embry Rucker Community Shelter Reston  Virginia,"11975 Bowman Towne Drive Reston , Virginia 20190",38.96158599854,-77.359909057617
 3014,Beverly Warren Emergency Shelter Dumfries Virginia,"17866 Main Street Dumfries, Virginia 22026",38.56497920000,-77.329973400000
@@ -3044,9 +3044,9 @@
 3042,"Menchville House Ministries, Inc. Newport News Virginia","P.O. Box 22687 Newport News, Virginia 23609",36.97999954000,-76.430000300000
 3043,Four Oaks Day Service Center  Newport News Virginia,"7401 Warwick Blvd Newport News, Virginia 23607",37.01346000000,-76.449210000000
 3044,PORT Emergency Winter Shelter Newport News Virginia,"Scattered Sites Newport News, Virginia 23601",37.07814788818,-76.467948913574
-3045,CAPS Night Stay Winter Shelter Suffolk ,"326 N. Main St. Suffolk,  23434",36.73357430000,-76.581148000000
+3045,CAPS Night Stay Winter Shelter Suffolk ,"326 N. Main St. Suffolk, Virginia 23434",36.73357430000,-76.581148000000
 3046,The Genieve Shelter Suffolk Virginia,"157 N Main St Suffolk, Virginia 23434",36.72945740000,-76.583159500000
-3047,Portsmouth Volunteers for the Homeless Portsmouth Virginia,"800 Williamsburg Ave, Suite B Portsmouth, Virginia 23704",36.83248901000,-76.320396400000
+3047,Portsmouth Volunteers for the Homeless Portsmouth Virginia,"800 Williamsburg Ave Suite B Portsmouth, Virginia 23704",36.83248901000,-76.320396400000
 3048,"NATASHA House, Inc Yorktown Virginia","PO Box 1869 Yorktown, Virginia 23692",37.16454315186,-76.444740295410
 3049,Barrett Transitional Home Norfolk Virginia,"2129 Vincent Ave Norfolk, Virginia 23504",36.86039352000,-76.250907900000
 3050,Union Mission Norfolk Virginia,"5100 East Virginia Beach Boulevard Norfolk, Virginia 23502",36.85765457000,-76.224960300000
@@ -3065,7 +3065,7 @@
 3063,Rescue Mission - Roanoke Roanoke Virginia,"402 4th Street Southeast Roanoke, Virginia 24013",37.26992449000,-79.934925000000
 3064,Trust House Roanoke Roanoke Virginia,"404 Elm Ave SW Roanoke, Virginia 24016",37.26670890000,-79.948674000000
 3065,Valley Mission  Inc. Staunton Virginia,"1513 W Beverley Street Staunton, Virginia 24401",38.15269852000,-79.088966300000
-3066,"Mercy House, Inc. Harrisonburg Virginia","247 N High Street, PO Box 1478 Harrisonburg, Virginia 22803",38.45248032000,-78.872123700000
+3066,"Mercy House, Inc. Harrisonburg Virginia","247 N High Street PO Box 1478 Harrisonburg, Virginia 22803",38.45248032000,-78.872123700000
 3067,Winchester Area Temporary Thermal Shelter Winchester Virginia,"217 Opequon Church Lane Winchester, Virginia 22602",39.13936996000,-78.195289600000
 3068,Winchester Rescue Mission Winchester Virginia,"435 N Cameron St Winchester, Virginia 22601",39.18906402588,-78.162567138672
 3069,The Salvation Army of Winchester VA - Center of Hope Shelter Winchester Virginia,"300 Fort Collier Road Winchester, Virginia 22603",39.19425583000,-78.147766100000
@@ -3103,7 +3103,7 @@
 3101,"Family Crisis Resource Center, Inc. Cumberland Maryland","146 Bedford Street Cumberland, Maryland 21502",39.65454101563,-78.761795043945
 3102,Central YMCA Cumberland Maryland,"205 Baltimore Avenue Cumberland, Maryland 21502",39.65254211426,-78.758338928223
 3103,Homeless shelter - LewisBurg Lewisburg West Virginia,"322 N. Court St Lewisburg, West Virginia 24901",37.80630874634,-80.442565917969
-3104,GREENE Greene County Human Services Waynesburg Pennsylvania,"19 S. Washington Street, Ft. Jackson Bldg. 3rd Floor Waynesburg, Pennsylvania 15370",39.89646530151,-80.179229736328
+3104,GREENE Greene County Human Services Waynesburg Pennsylvania,"19 S. Washington Street Ft. Jackson Bldg. 3rd Floor Waynesburg, Pennsylvania 15370",39.89646530151,-80.179229736328
 3105,City Mission Men's Shelter Uniontown Pennsylvania,"226 East Fayette Street Uniontown, Pennsylvania 15401",39.89535903931,-79.717262268066
 3106,Fayette County Community Action Foodbank Uniontown Pennsylvania,"119 North Beeson Avenue Uniontown, Pennsylvania 15401",39.90464019775,-79.725975036621
 3107,City Mission's Women's Shelter Uniontown Pennsylvania,"217 Lenox Street Uniontown, Pennsylvania 15401",39.90353775024,-79.714614868164
@@ -3115,11 +3115,11 @@
 3113,New Bethany Ministries Non Emergency Housing Bethlehem Pennsylvania,"337 Wyandotte St Bethlehem, Pennsylvania 18015 ",40.61046600342,-75.384468078613
 3114,Victory House of Lehigh Valley Bethlehem Pennsylvania,"314 Filmore St. Bethlehem, Pennsylvania 18015",40.62593079000,-75.370460500000
 3115,Bethlehem Emergency Sheltering Bethlehem Pennsylvania,"75 E Market St Bethlehem, Pennsylvania 18018",40.62164000000,-75.354680000000
-3116,Roofover Transitional Shelter Easton ,"902 Philadelphia Road Easton,  18042",40.67476440000,-75.214107000000
-3117,NORTHAMPTON Department of Human Services Easton Pennsylvania,"Northampton County Government Center, 669 Washington Street Easton, Pennsylvania 18042-7491",40.68843078613,-75.220733642578
+3116,Roofover Transitional Shelter Easton ,"902 Philadelphia Road Easton, Pennsylvania 18042",40.67476440000,-75.214107000000
+3117,NORTHAMPTON Department of Human Services Easton Pennsylvania,"Northampton County Government Center 669 Washington Street Easton, Pennsylvania 18042-7491",40.68843078613,-75.220733642578
 3118,Safe Harbor Shelter Easton Pennsylvania,"536 Bushkill Dr Easton, Pennsylvania 18042",40.69839096000,-75.213088900000
 3119,Third Street Alliance for Women & Children  Women and Children's Shelter Easton Pennsylvania,"41 N Third St Easton, Pennsylvania 18042",40.69260788000,-75.209213200000
-3120,CARBON Carbon County Area on Aging Palmerton Pennsylvania,"401 Delaware Avenue, 3rd Floor Palmerton, Pennsylvania 18071",40.80250167847,-75.608100891113
+3120,CARBON Carbon County Area on Aging Palmerton Pennsylvania,"401 Delaware Avenue 3rd Floor Palmerton, Pennsylvania 18071",40.80250167847,-75.608100891113
 3121,RoofOver Transitional Shelter Easton Pennsylvania,"140 Bushkill Drive Easton, Pennsylvania 18042",40.69621658000,-75.206863400000
 3122,Roof Over For Women And Children Allentown Pennsylvania,"902 Philadelphia Rd Allentown, Pennsylvania 18042",40.37542724609,-75.377899169922
 3123,Coalition to Shelter and Support the Homeless Ottsville Pennsylvania,"7661 Easton Rd Ottsville, Pennsylvania 18942",40.46253520000,-75.157298000000
@@ -3127,8 +3127,8 @@
 3125,Peaceful Knights Lehighton Pennsylvania,"185 Penn Drive Lehighton, Pennsylvania 18235",40.90338135000,-75.590522700000
 3126,Bucks County Housing Group Doylestown Pennsylvania,"470 Old Dublin Pike  Doylestown, Pennsylvania 18901",40.33548800000,-75.145980100000
 3127,The Ministries At MAIN St Pottstown Pennsylvania,"256 South Hanover Street Pottstown, Pennsylvania 19465-7022",40.24078750610,-75.651428222656
-3128,BUCKS Bucks County Opportunity Council Doylestown Pennsylvania,"Administration Office, 100 Doyle Street Doylestown, Pennsylvania 18901",40.31427001953,-75.134140014648
-3129,Street2Feet Outreach Center Stroudsburg Pennsylvania,"130 N 1st Street, Suite 102 Stroudsburg, Pennsylvania 18360",40.99440530000,-75.188451000000
+3128,BUCKS Bucks County Opportunity Council Doylestown Pennsylvania,"Administration Office 100 Doyle Street Doylestown, Pennsylvania 18901",40.31427001953,-75.134140014648
+3129,Street2Feet Outreach Center Stroudsburg Pennsylvania,"130 N 1st Street Suite 102 Stroudsburg, Pennsylvania 18360",40.99440530000,-75.188451000000
 3130,Community Service Center Altoona Pennsylvania,"2100 6th Ave Altoona, Pennsylvania 16602",40.50470580000,-78.403103500000
 3131,"Family Services, Inc - Blair County Family Shelter Services Altoona Pennsylvania","2700 8th Ave Altoona, Pennsylvania 16602",40.49960800000,-78.408951000000
 3132,VENANGO Venango County Office of Economic Opportunity Franklin Pennsylvania,"P.O. Box 1130 Franklin, Pennsylvania 16323",41.41148757935,-79.852081298828
@@ -3139,7 +3139,7 @@
 3137,The Lighthouse Foundation Valencia Pennsylvania,"116 Browns Hill Road Valencia, Pennsylvania 16059",40.71318883000,-79.929073830000
 3138,Pleasant Valley Shelter For Men Pittsburgh Pennsylvania,"1601 Brighton Rd. Pittsburgh, Pennsylvania 15212",40.45812225342,-80.016197204590
 3139,Light of Life Rescue Mission (Pittsburgh) Pittsburgh Pennsylvania,"10 E. North Avenue Pittsburgh, Pennsylvania 15212",40.45566177368,-80.006484985352
-3140,ALLEGHENY Allegheny County Bureau of Hunger and Housing Services Pittsburgh Pennyslvania,"1 Smithfield Street - United Way Building, 4th floor Pittsburgh, Pennyslvania 15222-2225",40.44752502441,-79.993400573730
+3140,ALLEGHENY Allegheny County Bureau of Hunger and Housing Services Pittsburgh Pennyslvania,"1 Smithfield Street - United Way Building 4th floor Pittsburgh, Pennyslvania 15222-2225",40.44752502441,-79.993400573730
 3141,Wood Street Commons Pittsburgh Pennsylvania,"301 Third Avenue Pittsburgh, Pennsylvania 15222",40.43888473511,-80.001632690430
 3142,Salvation Army Family Crisis Shelter Pittsburgh Pennsylvania,"424 Third Avenue Pittsburgh, Pennsylvania 15219",40.43755722046,-79.998664855957
 3143,Housing Services Pittsburgh Pennsylvania,"905 Watson St Pittsburgh, Pennsylvania 15219",40.43858370000,-79.991513000000
@@ -3154,12 +3154,12 @@
 3152,YMCA of McKeesport Winter Transitional Shelter McKeesport Pennsylvania,"523 Sinclair Street McKeesport, Pennsylvania 15132",40.35042190552,-79.861709594727
 3153,Welcome Home Shelter Greensburg Pennsylvania,"218 South Maple Avenue Greensburg, Pennsylvania 15601",40.30089569000,-79.542991600000
 3154,YMCA Women's Homeless Services Wilkinsburg Pennsylvania,"742 Ross Avenue Wilkinsburg, Pennsylvania 15221",40.44229125977,-79.883483886719
-3155,CENTRE Human Services Planning Office Bellefonte Pennsylvania,"420 Holmes Street  Bellefonte, Pennsylvania ",40.90650558472,-77.783157348633
-3156,Centre House Emergency Shelter State College ,"217 East Nittany Avenue State College,   1680",40.79321680000,-77.856343900000
+3155,CENTRE Human Services Planning Office Bellefonte Pennsylvania,"420 Holmes Street  Bellefonte, Pennsylvania 16823",40.90650558472,-77.783157348633
+3156,Centre House Emergency Shelter State College ,"217 East Nittany Avenue State College, Pennsylvania 16801",40.79321680000,-77.856343900000
 3157,Out of the Cold: Centre County State College Pennsylvania,"location varies State College, Pennsylvania 16801",40.79339490000,-77.860001200000
 3158,Hearts for the Homeless State College Pennsylvania,"100 South Fraser Street State College, Pennsylvania 16801",40.79354477000,-77.862777700000
 3159,CLINTON Clinton County Planning Commission Lock Haven Pennsylvania,"232 East Main Street Lock Haven, Pennsylvania 17745",41.13692474365,-77.443466186523
-3160,MIFFLIN Mifflin County Department of Human Services Lewistown Pennsylvania,"20 North Wayne Street, Courthouse Lewistown, Pennsylvania 17044",40.59923934937,-77.571380615234
+3160,MIFFLIN Mifflin County Department of Human Services Lewistown Pennsylvania,"20 North Wayne Street Courthouse Lewistown, Pennsylvania 17044",40.59923934937,-77.571380615234
 3161,JUNIATA Shelter Service Inc. Lewistown Pennsylvania,"13 Depot Street Lewistown, Pennsylvania 17044",40.59909057617,-77.568649291992
 3162,Emergency Services of Catholic Charities Delanco New Jersey,"801 Burlington Ave Delanco, New Jersey 08075",40.02233124000,-74.955947800000
 3163,Bucks County Emergency Homeless Shelter Levittown Pennsylvania,"7 Library Way Levittown, Pennsylvania 19058",40.15660858000,-74.854957500000
@@ -3199,7 +3199,7 @@
 3197,Families Forward Philadelphia (formerly Travelers Aid Family Services of Phila) Philadelphia Pennsylvania,"111 N. 49th Street Philadelphia, Pennsylvania 19139",39.96255874634,-75.219680786133
 3198,Life Center of Eastern Delaware County Upper Darby Pennsylvania,"6310 Market Street Upper Darby, Pennsylvania 19082",39.96251678000,-75.247558500000
 3199,CONNECT-BY-NIGHT (CBN) Upper Darby Pennsylvania,"7200 Chestnut Street Upper Darby, Pennsylvania 19082",39.95940780640,-75.263328552246
-3200,DELAWARE Delaware County Department of Human Resources Homeless Services Coordin Upper Darby Pennsylvania,"Office of Adult Services, 20 South 69th Street, 4th Floor Upper Darby, Pennsylvania 19082",39.95739364624,-75.265403747559
+3200,DELAWARE Delaware County Department of Human Resources Homeless Services Coordin Upper Darby Pennsylvania,"Office of Adult Services 20 South 69th Street 4th Floor Upper Darby, Pennsylvania 19082",39.95739364624,-75.265403747559
 3201,Outley House Shelter Philadelphia Pennsylvania,"6901 Woodland Ave Philadelphia, Pennsylvania 19142",39.92167670000,-75.240577300000
 3202,Salvation Army Shelter Norristown Norristown Pennsylvania,"533 Swede Street Norristown, Pennsylvania 19404",40.11712780000,-75.343381100000
 3203,Coordinated Homeless Outreach Center (CHOC) Norristown Pennsylvania,"1001 Sterigere Street Building 53 Norristown, Pennsylvania 19401",40.12896728516,-75.347892761230
@@ -3207,14 +3207,14 @@
 3205,Resource Center of Somerset Hillsborough New Jersey,"427 Homstead Rd Hillsborough, New Jersey 08844",40.49368667603,-74.654541015625
 3206,The House - Phoenixville Women's Outreach Phoenixville Pennsylvania," Phoenixville, Pennsylvania 19460",40.13038253784,-75.514915466309
 3207,Good Samaritan Men's Shelter Phoenixville Pennsylvania,"141 East High Street Phoenixville, Pennsylvania 19460",40.13859940000,-75.514259300000
-3208,CHESTER Chester County Departments of Community Development West Chester Pennsylvania,"Government Services Center, Suite 240, 601 Westtown Road West Chester, Pennsylvania 19382-4541",39.95958328247,-75.586326599121
+3208,CHESTER Chester County Departments of Community Development West Chester Pennsylvania,"Government Services Center Suite 240 601 Westtown Road West Chester, Pennsylvania 19382-4541",39.95958328247,-75.586326599121
 3209,Safe Harbor of Greater West Chester West Chester Pennsylvania,"20 North Matlack Street West Chester, Pennsylvania 19380",39.96146774292,-75.602355957031
 3210,Salvation Army Shelter For Men West Chester Pennsylvania,"101 E Market St West Chester, Pennsylvania 19382",39.96075057983,-75.602752685547
 3211,Wesley House Emergency Shelter Chester Pennsylvania,"701 Madison Street Chester, Pennsylvania 19013",39.85196304000,-75.357681200000
 3212,CityTeam Ministries Philadelphia Chester Pennsylvania,"634 Sproul Street Chester, Pennsylvania 19013",39.84945678711,-75.361763000488
 3213,The Family Management Center Chester Pennsylvania,"229 Norris Street Chester, Pennsylvania 19013",39.83911895752,-75.375846862793
 3214,"His Mission, Inc Kennett Square Pennsylvania","342 Birch St Kennett Square, Pennsylvania 19348",39.84201812744,-75.705795288086
-3215,W.C. Atkinson Shelter and Atkinson Project  Coatesville ,"822 East Chestnut Street  Coatesville,  19320",39.98692321777,-75.808006286621
+3215,W.C. Atkinson Shelter and Atkinson Project  Coatesville ,"822 East Chestnut Street Coatesville, Pennsylvania 19320",39.98692321777,-75.808006286621
 3216,City Gate Shelter Coatesville Pennsylvania,"17 North 7th Avenue Coatesville, Pennsylvania 19320",39.98572540283,-75.810653686523
 3217,CYWA Gateway Shelter Coatesville Pennsylvania,"17 North 7th Avenue Coatesville, Pennsylvania 19320",39.98572540283,-75.810653686523
 3218,YWCA Delaware Home-Life Management Center Wilmington Delaware,"709 North Madison Street Wilmington, Delaware 19801",39.74554443000,-75.555984500000
@@ -3240,32 +3240,32 @@
 3238,Lebanon Rescue Mission - Men's Shelter Lebanon Pennsylvania,"1223 Bittner Blvd. Lebanon, Pennsylvania 17046",40.34006700000,-76.432364000000
 3239,Opportunity House Homeless Shelter Reading Pennsylvania,"430 North 2nd Street Reading, Pennsylvania 19601",40.34286880493,-75.933815002441
 3240,Hope Rescue Mission Reading Pennsylvania,"645 N 6th St Reading, Pennsylvania 19601",40.34544317000,-75.925186830000
-3241,BERKS Human Services Coordinator - County Services Center Reading Pennyslvania,"633 Court Street, 13th Fl Reading, Pennyslvania 19601",40.35372543335,-75.940521240234
+3241,BERKS Human Services Coordinator - County Services Center Reading Pennyslvania,"633 Court Street 13th Fl Reading, Pennyslvania 19601",40.35372543335,-75.940521240234
 3242,The Union Mission Latrobe Pennsylvania,"2217 Harrison Ave Latrobe, Pennsylvania 15650",40.30466000000,-79.368840000000
 3243,Indiana County Community Action Program  Inc. Indiana Pennsylvania,"827 Water St Indiana, Pennsylvania 15701",40.62453842163,-79.155059814453
 3244,INDIANA Indiana County Human Services Indiana Pennsylvania,"P.O. Box 187 Indiana, Pennsylvania 15701",40.62702560425,-79.132270812988
-3245,CAMBRIA Cambria County Human Services Department Johnstown Pennsylvania,"Central Park Complex, 110 Franklin Street, Suite 400 Johnstown, Pennsylvania 15901-1831",40.32612991333,-78.917755126953
+3245,CAMBRIA Cambria County Human Services Department Johnstown Pennsylvania,"Central Park Complex 110 Franklin Street Suite 400 Johnstown, Pennsylvania 15901-1831",40.32612991333,-78.917755126953
 3246,Armstrong County Community Action Program Kittanning Pennsylvania,"124 Armsdale Rd. Suite 211 Kittanning, Pennsylvania 16201",40.81930161000,-79.466903600000
-3247,ARMSTRONG Armstrong County Community Action Agency Kittanning Pennsylvania,"124 Armsdale Road, Suite 211 Kittanning, Pennsylvania 16201",40.81645202637,-79.521987915039
+3247,ARMSTRONG Armstrong County Community Action Agency Kittanning Pennsylvania,"124 Armsdale Road Suite 211 Kittanning, Pennsylvania 16201",40.81645202637,-79.521987915039
 3248,Luzerne County Office of Human Services Wilkes Barre Pennyslvania,"111 N Pennsylvania Ave Wilkes Barre, Pennyslvania 18701",41.24538040161,-75.876121520996
 3249,The Salvation Army ARC (Adult Rehab Center) Wilkes-Barre Pennsylvania,"60 Hill Street Wilkes-Barre, Pennsylvania 18702",41.23840033000,-75.885902000000
 3250,Gabriel Shelter For Youths Wilkes Barre Pennsylvania,"33 East Northampton Street Wilkes Barre, Pennsylvania 18701",41.24321365356,-75.884399414063
-3251,McAuley House Shelter Plymouth ,"121 Chuch Street  Plymouth,  18651",41.24268600000,-75.943248000000
+3251,McAuley House Shelter Plymouth ,"121 Chuch Street  Plymouth, Pennsylvania 18651",41.24268600000,-75.943248000000
 3252,LACKAWANNA Lackawanna County Department of Human Services Scranton Pennyslvania,"135 Jefferson Avenue, 3rd floor Scranton, Pennyslvania 18503",41.40622711182,-75.661415100098
 3253,Divine Providence Homeless Shelter Hazleton Pennsylvania,"214 West Walnut Street  Hazleton, Pennsylvania 18201",40.95246450000,-75.978670170000
 3254,Catherine McAuley Center - Women's Services Scranton Pennsylvania,"709 Madison Ave Scranton, Pennsylvania 18510",41.41209030151,-75.653549194336
 3255,St. Anthony's Haven - Catholic Social Services Reside Scranton Pennsylvania,"409 Olive Street Scranton, Pennsylvania 18509",41.41334915161,-75.659294128418
 3256,Community Intervention Shelter Scranton Pennsylvania,"445 N. 6th Ave Scranton, Pennsylvania 18503",41.41295242000,-75.670120200000
 3257,COLUMBIA Columbia County Human Services Department Bloomsburg Pennsylvania,"P.O. Box 380 Bloomsburg, Pennsylvania 17815",41.00316619873,-76.450523376465
-3258,MONTOUR Director of Human Services Danville Pennsylvania,"Human Service Building, 112 Woodbine Lane, Suite 3 Danville, Pennsylvania 17821",40.96450042725,-76.578056335449
-3259,NORTHUMBERLAND Northumberland County Adult Services Sunbury Pennsylvania,"Sunbury Office Park Building B - 322, Second Floor Sunbury, Pennsylvania 17801",40.86258316040,-76.794410705566
-3260,My Father's House - Servants to All Pottsville ,"4 South Centre Street Pottsville,  17901",40.68511920000,-76.194650600000
+3258,MONTOUR Director of Human Services Danville Pennsylvania,"Human Service Building 112 Woodbine Lane Suite 3 Danville, Pennsylvania 17821",40.96450042725,-76.578056335449
+3259,NORTHUMBERLAND Northumberland County Adult Services Sunbury Pennsylvania,"Sunbury Office Park Building B - 322 Second Floor Sunbury, Pennsylvania 17801",40.86258316040,-76.794410705566
+3260,My Father's House - Servants to All Pottsville ,"4 South Centre Street Pottsville, Pennsylvania  17901",40.68511920000,-76.194650600000
 3261,Just for Jesus Homeless Challenge Homeless Outreach Brockway Pennsylvania,"14530 Rt. 28 Brockway, Pennsylvania 15824",41.24694824219,-78.848739624023
-3262,ELK Elk County Citizens Against Physical Ridgway Pennsylvania,"Sexual and Emotional Abuse, Inc. ",41.42033767700,-78.728637695313
+3262,ELK Elk County Citizens Against Physical Ridgway Pennsylvania,"P.O. Box 464 Ridgway, Pennsylvania 15853",41.42033767700,-78.728637695313
 3263,Just for Jesus challenge Homeless Outreach Brookville Pennsylvania,"336 Madison Ave. Brookville, Pennsylvania 15825",41.15994262695,-79.082893371582
-3264,JEFFERSON Jefferson EOA Punxsutawney Pennsylvania,"105 Grace Way, Millcreek Center Punxsutawney, Pennsylvania 15767-1209",40.94367599487,-78.970863342285
+3264,JEFFERSON Jefferson EOA Punxsutawney Pennsylvania,"105 Grace Way Millcreek Center Punxsutawney, Pennsylvania 15767-1209",40.94367599487,-78.970863342285
 3265,CLARION Clarion County Human Services Building Clarion Pennsylvania,"214 South 7th Street Clarion, Pennsylvania 16214",41.20727157593,-79.386436462402
-3266,FOREST Forest County Courthouse Tionesta Pennsylvania,"526 Elm Street, Box 3 Tionesta, Pennsylvania 16353",41.49533843994,-79.455879211426
+3266,FOREST Forest County Courthouse Tionesta Pennsylvania,"526 Elm Street Box 3 Tionesta, Pennsylvania 16353",41.49533843994,-79.455879211426
 3267,DAUPHIN Dauphin County Mental Health & Mental Retardation Harrisburg Pennsylvania,"100 Chestnut Street Harrisburg, Pennsylvania 17101",40.25773620605,-76.881332397461
 3268,Bethesda Mission Men's Shelter Harrisburg Pennsylvania,"611 Reilly Street Harrisburg, Pennsylvania 17102",40.27333832000,-76.885948100000
 3269,Bethesda Mission Women and Children's Shelter Harrisburg Pennsylvania,"611 Reily Street Harrisburg, Pennsylvania 17102",40.27333832000,-76.885948100000
@@ -3277,12 +3277,12 @@
 3275,HELP Ministries Harrisburg Pennsylvania,"413 S. 19th Street Harrisburg, Pennsylvania 17104",40.26238632202,-76.858032226563
 3276,Community CARES Carlisle Pennsylvania,"50 West Penn Street Carlisle, Pennsylvania 17013",40.20538330000,-77.188674900000
 3277,Genesis House - Men's Shelter Program Carlisle Florida,"20 East Pomfret Street Carlisle, Florida 17013",40.19980900000,-77.188902900000
-3278,CUMBERLAND Aging and Community Services Carlisle Pennsylvania,"16 West High Street, Suite 300 Carlisle, Pennsylvania 17013",40.20147705078,-77.189376831055
+3278,CUMBERLAND Aging and Community Services Carlisle Pennsylvania,"16 West High Street Suite 300 Carlisle, Pennsylvania 17013",40.20147705078,-77.189376831055
 3279,Safe Harbour - Homeless Housing Services Carlisle Pennsylvania,"102 West High Street Carlisle, Pennsylvania 17013",40.20166397095,-77.191680908203
 3280,PERRY Perry County Human Service New Bloomfield Pennsylvania,"P.O. Box 436 New Bloomfield, Pennsylvania 17068",40.43256759644,-77.160018920898
 3281,LifePath Christian Ministries Single Women and Children's Shelter York Pennsylvania,"17 Jefferson Avenue  York, Pennsylvania 17405",39.96914700000,-76.731840000000
 3282,Men's Shelter - LifePath Christian Ministries York Pennsylvania,"363 W. Market St. York, Pennsylvania 17405",39.96016000000,-76.736630000000
-3283,YORK Department of Human Services York Pennsylvania,"100 West Market Street, Suite 401 York, Pennsylvania 17401",39.96139526367,-76.729965209961
+3283,YORK Department of Human Services York Pennsylvania,"100 West Market Street Suite 401 York, Pennsylvania 17401",39.96139526367,-76.729965209961
 3284,Bell Family Shelter York Pennsylvania,"160 South George Street York, Pennsylvania 17401",39.96003723000,-76.726631100000
 3285,Adams County Shelter For The Homeless Gettysburg Pennsylvania,"102 North Stratton St Gettysburg, Pennsylvania 17325",39.83192825317,-77.228897094727
 3286,Survivors Inc Domestic Violence Shelter Gettysburg Pennsylvania,"P.O. Box 3572 Gettysburg, Pennsylvania 17325",39.83092880249,-77.231094360352
@@ -3298,12 +3298,12 @@
 3296,Cecil County DSS Elkton Maryland,"170 East Main Street Elkton, Maryland 21921",39.60841751099,-75.827178955078
 3297,Cecil County Department of Social Services Elkton Maryland,"P.O. Box 2137 Elkton, Maryland 21921",39.60677719000,-75.833274800000
 3298,Settlement House - Cecil County Men's Shelter Elkton Maryland,"168 W Main St Elkton, Maryland 21921",39.60642800000,-75.832573000000
-3299,UNION / SNYDER Union-Snyder Community Action Agency Selinsgrove Pennsylvania,"713 Bridge Street, Suite 10 Selinsgrove, Pennsylvania 17870",40.81188964844,-76.865005493164
+3299,UNION / SNYDER Union-Snyder Community Action Agency Selinsgrove Pennsylvania,"713 Bridge Street Suite 10 Selinsgrove, Pennsylvania 17870",40.81188964844,-76.865005493164
 3300,American Resue Workers Williamsport Pennsylvania,"643 Elmira St Williamsport, Pennsylvania 17701",41.24527740479,-77.009315490723
 3301,Changing Lives Shelter Hanover Pennsylvania,"136 Carlisle Street Hanover, Pennsylvania 17331",39.80213928223,-76.985778808594
 3302,Next Step Center  Inc. Somerset Pennsylvania,"406 Stoystown Somerset, Pennsylvania 15501",40.01357269287,-79.071487426758
 3303,SAFE in Hunterdon Women's Domestic Violence Shelter Flemington New Jersey,"47 E Main St Flemington, New Jersey 08822",40.51650238037,-74.857009887695
-3304,CRAWFORD Crawford County Human Services Meadville Pennsylvania,"632632628 Arch Street, Suite B, 101 Meadville, Pennsylvania 16335",41.63570404053,-80.147666931152
+3304,CRAWFORD Crawford County Human Services Meadville Pennsylvania,"632632628 Arch Street Suite B 101 Meadville, Pennsylvania 16335",41.63570404053,-80.147666931152
 3305,CAMERON Northern Tier Community Action Corp. Emporium Pennsylvania,"P.O. Box 389 Emporium, Pennsylvania 15834",41.52393341064,-78.338706970215
 3306,Somerset Home for Temporarily Displaced Children Bridgewater New Jersey,"49 Brahma Avenue Bridgewater, New Jersey 08807",40.55913925171,-74.660163879395
 3307,Somerset County Social Services Emergency Assistance Somerville New Jersey,"73 E High St Somerville, New Jersey 08876",40.56925582886,-74.607841491699
@@ -3318,7 +3318,7 @@
 3316,HolBrock Estates Assisted Living Baltimore Maryland,"3506 Lucille Ave Baltimore, Maryland 21215",39.34321594238,-76.674163818359
 3317,"Night of Peace Family Shelter, Inc. Windsor Mill Maryland","7509 Windsor Mill Rd Windsor Mill, Maryland 21244",39.34186500000,-76.763977000000
 3318,House of Ruth Baltimore Maryland,"2201 Argonne Drive Baltimore, Maryland 21218",39.33898162842,-76.581893920898
-3319,Eastside Family Shelter Rosedale Maryland,"9100 Franklin Square Drive, Suite 108 Rosedale, Maryland 21237",39.35048676000,-76.483604400000
+3319,Eastside Family Shelter Rosedale Maryland,"9100 Franklin Square Drive Suite 108 Rosedale, Maryland 21237",39.35048676000,-76.483604400000
 3320,Family Shelter Service  Wheaton Illinois,"605 E Roosevelt Rd Wheaton, Illinois 60187",41.85917500000,-88.097666000000
 3321,Dupage PADS Overnight Housing Assistance Program Wheaton Illinois,"705 West Liberty Wheaton, Illinois 60187",41.86407852000,-88.116081200000
 3322,The Harbour Park Ridge Illinois,"1440 Renaissance Drive Suite 240 Park Ridge, Illinois 60068",42.03238678000,-87.865280100000
@@ -3349,13 +3349,13 @@
 3347,VETS Place Southern Center - Center for Veterans Issues Union Grove Wisconsin,"21425 Spring St Union Grove, Wisconsin 53182",42.69327600000,-88.078560900000
 3348,Marys' Mission Waukegan Illinois,"642 S. Martin Luther King Jr. Ave. Waukegan, Illinois 60085",42.34779358000,-87.833740200000
 3349,Burlington Transitional Living Center Burlington Wisconsin,"482 S. Pine Street Burlington, Wisconsin 53105",42.66966248000,-88.268066400000
-3350,Halo - Homeless Assistance Leadership Organization Shelter and Services Racine Wisconsin,"2000 De Koven Avenue, unit 1 Racine, Wisconsin 53403",42.70756912000,-87.803085300000
+3350,Halo - Homeless Assistance Leadership Organization Shelter and Services Racine Wisconsin,"2000 De Koven Avenue unit 1 Racine, Wisconsin 53403",42.70756912000,-87.803085300000
 3351,SAFE Haven of Racine - Youth Shelter Racine Wisconsin,"1030 Washington Ave Racine, Wisconsin 53403",42.72062200000,-87.794206000000
 3352,Women's Resource Center Shelter Racine Wisconsin,"P.O. Box 1764  Racine, Wisconsin 53403",42.72613090000,-87.782852300000
 3353,Gerard's Embrace - Shelter For Pregnant Women East Troy Wisconsin,"1995 Beulah Avenue East Troy, Wisconsin 53120",42.78922000000,-88.411370000000
 3354,The Haven Mattoon Illinois,"1812 Western Ave Mattoon, Illinois 61938",39.48336000000,-88.377320000000
 3355,Home Sweet Home Mission - Billy Shelper Center HSHM Main Campus Bloomington Illinois,"303 East Oakland Avenue Bloomington, Illinois 61701",40.47303772000,-88.990638700000
-3356,Safe Harbor Homeless Services Bloomington ,"611 W. Washington Bloomington,  61701",40.47973550000,-88.999270200000
+3356,Safe Harbor Homeless Services Bloomington ,"611 W. Washington Bloomington, Illinois 61701",40.47973550000,-88.999270200000
 3357,Salvation Army Safe Harbor Shelter Bloomington Illinois,"208 N. Oak Street  Bloomington, Illinois  6170",40.47954930000,-88.998523400000
 3358,Kendall County PADS Yorkville Illinois,"1204 Deer St Yorkville, Illinois 60560",41.63036728000,-88.442932100000
 3359,New Directions Heating and Cooling Center Jacksonville  Illinois,"100 S Fayette St Jacksonville , Illinois 62650",39.73431396000,-90.235160800000
@@ -3375,13 +3375,13 @@
 3373,South Side Mission Shelter for Women and Children Peoria Illinois,"1127 S Laramie St Peoria, Illinois 61605",40.67566681000,-89.643569900000
 3374,Galesburg Rescue Mission and Women's Shelter Home Galesburg Illinois,"435 E. Third Street Galesburg, Illinois 61402",40.93633652000,-90.364036500000
 3375,C-U at Home Champaign Illinois,"70 East Washington Champaign, Illinois 61820",40.12003708000,-88.239616300000
-3376,Champaign IL Centralized Intake Champaign ,"see list below Champaign,  61820",40.11119079590,-88.235946655273
+3376,Champaign IL Centralized Intake Champaign ,"53 E. Logan Street Champaign, Illinois 61820",40.11119079590,-88.235946655273
 3377,Austin's Place - Winter Emergency Shelter for Women Champaign Illinois,"504 E. Church Street Champaign, Illinois ",40.11860000000,-88.231630000000
 3378,Salvation Army Stepping Stone Program and Daytime Warming Center Champaign Illinois,"2212 N. Market St Champaign, Illinois 61822",40.14134100000,-88.238129000000
 3379,Dream Center Peoria Peoria Illinois," 714 Hamilton Blvd Peoria, Illinois 61603",40.69764000000,-89.592580000000
 3380,Peoria Rescue Mission Peoria Illinois,"601 S. W. Adams Peoria, Illinois 61652",40.68790436000,-89.596160800000
 3381,Danville Rescue Mission Danville Illinois,"834 N. Bowman Avenue Danville, Illinois 61834",40.13806534000,-87.611976600000
-3382,Danville Rescue Mission Danville  ,"834 N. Bowman Ave. Danville ,  61832",40.13801120000,-87.611775800000
+3382,Danville Rescue Mission Danville  ,"834 N. Bowman Ave. Danville , Illinois 61832",40.13801120000,-87.611775800000
 3383,The Water Street Mission Resurrected Homeless Shelter Decatur Illinois,"758 N. Water Street Decatur, Illinois 62523",39.84830093000,-88.954452500000
 3384,God's Shelter of Love Decatur Illinois,"929 North Union Street Decatur, Illinois 62522",39.85018539000,-88.959144500000
 3385,Oasis Day Center Decatur Illinois,"243 W Cerro Gordo St Decatur, Illinois 62522",39.84686870000,-88.958119000000
@@ -3393,7 +3393,7 @@
 3391,The Shelter Janesville Wisconsin,"407 W. Van Buren Street Janesville, Wisconsin 53545",42.68227768000,-89.016906700000
 3392,Contact Ministries Emergency Shelter  Springfield Illinois,"1100 East Adams Springfield, Illinois 62703",39.80043411000,-89.640785200000
 3393,House of Mercy Homeless Shelter Janesville Wisconsin,"320 Lincoln St Janesville, Wisconsin 53545",42.67628860000,-89.025878900000
-3394,Samaritan Well Macomb ,"1306 Maple Ave # T Macomb,  61455",40.44105000000,-90.672380000000
+3394,Samaritan Well Macomb ,"1306 Maple Ave # T Macomb, Illinois 61455",40.44105000000,-90.672380000000
 3395,Peru Pads Peru Illinois,"1320 Menards Dr. Peru, Illinois 61354",41.36209869000,-89.121940600000
 3396,Ottawa PADS Ottawa Illinois,"1120 Canal Street Ottawa, Illinois 61350",41.35123062000,-88.845870900000
 3397,Stopping Woman Abuse Now SWAN Olney Illinois,"P. O. Box 176 Olney, Illinois 62450",38.70001221000,-88.070533700000
@@ -3429,7 +3429,7 @@
 3427,Sojourner House Eau Claire Wisconsin,"618 South Barstow St. Eau Claire, Wisconsin 54701",44.80840310000,-91.495944500000
 3428,Beacon House Eau Claire Wisconsin,"309 E.   Lake St. Eau Claire, Wisconsin 54701",44.80864334106,-91.497192382813
 3429,Ruth House: Hope Gospel Mission Women's Shelter Eau Claire Wisconsin,"2517 Moholt Drive Eau Claire, Wisconsin 54703",44.82367706000,-91.545219400000
-3430,The Elizabeth House: Maternity and Parenting Residential Program Madison ,"1350 MacArthur Road Madison,  53714",43.11443530000,-89.320839200000
+3430,The Elizabeth House: Maternity and Parenting Residential Program Madison ,"1350 MacArthur Road Madison, Wisconsin 53714",43.11443530000,-89.320839200000
 3431,Interfaith Hospitality Network (IHN) Shelter program Madison Wisconsin,"128 E. Olin Ave, Suite 202 Madison, Wisconsin 53713",43.05298650000,-89.381258000000
 3432,The Road Home Dane County Madison Wisconsin,"128 E. Olin Ave., Suite 202 Madison, Wisconsin 53713",43.05251312000,-89.381729100000
 3433,Freedom House Green Bay Green Bay Wisconsin,"2997 St Anthony St Green Bay, Wisconsin 54311",44.52271652000,-87.937866200000
@@ -3438,7 +3438,7 @@
 3436,Salvation Army Emergency Shelter Sheboygan Sheboygan Wisconsin,"710 Pennsylvania Avenue Sheboygan, Wisconsin 53081",43.75009918213,-87.711891174316
 3437,Salvation Army Wausau Wisconsin,"202 Callon St Wausau, Wisconsin 54401",44.96111850000,-89.638406200000
 3438,Our Sisters House Tomahawk Wisconsin,"328 E Washington Ave Tomahawk, Wisconsin 54487",45.47300350000,-89.724544100000
-3439,Salvation Army Stevens Point Hope Center Stevens Point ,"1600 Briggs St Stevens Point,  54481",44.52560000000,-89.576500000000
+3439,Salvation Army Stevens Point Hope Center Stevens Point ,"1600 Briggs St Stevens Point, Wisconsin 54481",44.52560000000,-89.576500000000
 3440,SAM's House Shawano Wisconsin,"213 East Green  Shawano, Wisconsin 54166",44.82667620000,-88.486479200000
 3441,"Harford Family House, Inc. Aberdeen Maryland","53 E. Bel Air Avenue Suite 3 Aberdeen, Maryland 21001",39.50811386000,-76.159904400000
 3442,Welcome One Emergency Shelter  Belcamp Maryland,"1221 C Brass Mill Road Belcamp, Maryland 21017",39.47706222534,-76.235298156738
@@ -3462,21 +3462,21 @@
 3460,"K.I.S.H. Home,Inc. Dover Delaware","338 Hiawatha Lane Dover, Delaware 19901",39.17965850000,-75.530250100000
 3461,"Sussex Community Crisis Housing Services, Inc. Georgetown Delaware","204 East North Street Georgetown, Delaware 19947",38.69549561000,-75.385444600000
 3462,Catholic Charities Casa San Francisco Milton Delaware,"127 Broad Street Milton, Delaware 19968",38.77946472000,-75.313430700000
-3463,Cumberland County Code Blue Coalition - Warming Centers Bridegeton ,"31 N Pearl St Bridegeton,  08302",39.42963600000,-75.232124000000
+3463,Cumberland County Code Blue Coalition - Warming Centers Bridegeton ,"31 N Pearl St Bridegeton, New Jersey 08302",39.42963600000,-75.232124000000
 3464,Northfield Women's Shelter - Atlantic County Women's Center  Northfield New Jersey,"PO Box 311 Northfield, New Jersey 08225",39.37039566040,-74.550155639648
 3465,Atlantic City Rescue Mission Atlantic City New Jersey,"2009 Bacharach Blvd Atlantic City, New Jersey 08401",39.36508560000,-74.440307600000
 3466,Covenant House Atlantic City New Jersey Atlantic City New Jersey,"929 Atlantic Ave.   Atlantic City, New Jersey 08401",39.36455154000,-74.423004100000
 3467,The Women's Center Linwood Linwood New Jersey,"1201 New Road Linwood, New Jersey 08221",39.34791180000,-74.580452500000
-3468,Family Promise of Southern Ocean County West Creek ,"1001 South Main St. West Creek,  08092",39.67295000000,-74.278400000000
+3468,Family Promise of Southern Ocean County West Creek ,"1001 South Main St. West Creek, New Jersey 08092",39.67295000000,-74.278400000000
 3469,"The Good
 Sam House Men's Shelter Waretown New Jersey","367 Route 9 Waretown, New Jersey 08758",39.80733108521,-74.275566101074
 3470,Ocean's Harbor House Youth Shelter Toms River New Jersey,"2455 Windsor Ave Toms River, New Jersey 08753",39.95740127563,-74.128616333008
 3471,Grace Initiatives/Grace's Place - Maternity Housing Lanoka Harbor New Jersey,"509 MAIN ST  Lanoka Harbor, New Jersey 08734",39.85561752319,-74.179901123047
 3472,Vetwork - A Program of Vetgroup Inc. Forked River New Jersey,"103 North Main Street Forked River, New Jersey 08731",39.84268569946,-74.189048767090
 3473,Cumberland Family Shelter Vineland New Jersey,"6140 Mays Landing Road Vineland, New Jersey 08361",39.43236542000,-74.914237900000
-3474,Casa Nueva Vida Lawrence ,"57 Jackson St. Lawrence,  01840",42.71020940000,-71.157555000000
+3474,Casa Nueva Vida Lawrence ,"57 Jackson St. Lawrence, Massachusetts 01840",42.71020940000,-71.157555000000
 3475,DAYBREAK SHELTER Lawrence Massachusetts,"19 Winter Street Lawrence, Massachusetts 01843",42.69107437134,-71.144844055176
-3476,LAZARUS HOUSE Lawrence ,"48 Holly Street Lawrence,  01841",42.71326446533,-71.173988342285
+3476,LAZARUS HOUSE Lawrence ,"48 Holly Street Lawrence, Massachusetts 01841",42.71326446533,-71.173988342285
 3477,Wellspring House - Emergency Shelter for Families Gloucester Massachusetts,"45 Congress Street, Suite 4120 Gloucester, Massachusetts 01970",42.61085129000,-70.708374000000
 3478,"Action, Inc. Emergency Homeless Shelter Gloucester Massachusetts","180 Main Street Gloucester, Massachusetts 01930",42.61699677000,-70.652915900000
 3479,INN BETWEEN Peabody Massachusetts,"25 Holten Street Peabody, Massachusetts 01960",42.52223587000,-70.923416100000
@@ -3517,14 +3517,14 @@ Sam House Men's Shelter Waretown New Jersey","367 Route 9 Waretown, New Jersey 0
 3514,Cross Street Family Shelter Somerville Massachusetts,"59 Cross Street Somerville, Massachusetts 02144",42.38615036000,-71.087753300000
 3515,St. Patrick's Shelter Somerville Massachusetts,"270 Washington St Somerville, Massachusetts 02143",42.37928260000,-71.097901700000
 3516,First Church Shelter Cambridge Massachusetts,"11 Garden Street Cambridge, Massachusetts 02138",42.37660217000,-71.122367800000
-3517,Y2Y Harvard Square - Seasonal Shelter Cambridge Massachusetts,"1 Church St Cambridge, Massachusetts ",42.37440120000,-71.118506100000
+3517,Y2Y Harvard Square - Seasonal Shelter Cambridge Massachusetts,"1 Church St Cambridge, Massachusetts 02138",42.37440120000,-71.118506100000
 3518,Bristol Lodge Women's Shelter Waltham Massachusetts,"205 Bacon Street Waltham, Massachusetts 02451",42.38197708000,-71.242057800000
 3519,Harvard Square Homeless Shelter Cambridge Massachusetts,"66 Winthrop Street Cambridge, Massachusetts 02138",42.37159348000,-71.119544900000
 3520,CAMBRIDGE YWCA EMERGENCY FAMILY SHELTER Cambridge Massachusetts,"3 Bigelow Street Cambridge, Massachusetts 02139",42.36733627319,-71.106239318848
 3521,CAMBRIDGE YWCA Cambridge Massachusetts,"7 Temple Street Cambridge, Massachusetts 02139",42.36616897583,-71.104660034180
 3522,Multi Service Center for the Homeless Cambridge Massachusetts,"362 Green St Cambridge, Massachusetts 02139",42.36547000000,-71.105490000000
 3523,Bristol Lodge Men's Shelter Waltham Massachusetts,"27 Lexington Street Waltham, Massachusetts 02451",42.38198853000,-71.276969900000
-3524,Hildebrand Family Self-Help Center - Congregate Family Shelter Cambridge Massachusetts,"614 Massachusetts Avenue, 3rd floor Cambridge, Massachusetts 02139",42.36504745483,-71.103187561035
+3524,Hildebrand Family Self-Help Center - Congregate Family Shelter Cambridge Massachusetts,"614 Massachusetts Avenue 3rd floor Cambridge, Massachusetts 02139",42.36504745483,-71.103187561035
 3525,Heading Home Shelter Cambridge Massachusetts,"109 School Street Cambridge, Massachusetts 02139",42.36407471000,-71.098526000000
 3526,Cambridge Shelter (Salvation Army) Cambridge Massachusetts,"402 Massachusetts Avenue Cambridge, Massachusetts 02139",42.36348343000,-71.100578300000
 3527,Salvation Army Emergency Shelter Cambridge Massachusetts,"402 Massachusetts Ave Cambridge, Massachusetts 02139",42.36348342896,-71.100578308105
@@ -3535,7 +3535,7 @@ Sam House Men's Shelter Waretown New Jersey","367 Route 9 Waretown, New Jersey 0
 3532,Crittenton Women's Union Boston Massachusetts,"1 Washington Mall Boston, Massachusetts 02108",42.35925292969,-71.057876586914
 3533,New England Center for Homeless Veterans Boston Massachusetts,"17 Court Street Boston, Massachusetts 02108",42.35897445679,-71.058448791504
 3534,CRITTENTON HASTINGS HOUSE Brighton Massachusetts,"10 Pertshire Road Brighton, Massachusetts 02135",42.35329055786,-71.165832519531
-3535,CITY OF BOSTON EMERGENCY SHELTER COMMISSION Boston ,"Boston City Hall, Rm. 716 Boston,  02201",42.35778427124,-71.060859680176
+3535,CITY OF BOSTON EMERGENCY SHELTER COMMISSION Boston ,"Boston City Hall Rm. 716 Boston, Massachusetts 02201",42.35778427124,-71.060859680176
 3536,Kingston House - Boston Rescue Mission Boston Massachusetts,"39 Kingston Street Boston, Massachusetts 02112",42.35357666000,-71.059371900000
 3537,SAINT FRANCIS HOUSE DAY CENTER Essex Station Boston Massachusetts,"39 Boylston Street Boston, Massachusetts 02112",42.35242462158,-71.063667297363
 3538,FamilyAid Emergency Shelter Boston Massachusetts,"727 Atlantic Avenue Boston, Massachusetts 02111",42.35067367554,-71.056808471680
@@ -3567,7 +3567,7 @@ Sam House Men's Shelter Waretown New Jersey","367 Route 9 Waretown, New Jersey 0
 3564,Queen of Peace Family Shelter Boston Massachusetts,"401 Quincy Street Boston, Massachusetts 02125",42.31029129000,-71.068000700000
 3565,FAMILY HOUSE SHELTER Dorchester Massachusetts,"250 252 Columbia Road Dorchester, Massachusetts 02121",42.30799865723,-71.075759887695
 3566,Finex House Shelter For Battered Women Jamaica Plain Massachusetts,"PO Box 300670 Jamaica Plain, Massachusetts 02130",42.30310821533,-71.118110656738
-3567,BOSTON CITY SHELTER Long Island ,"Long Island Hospital Long Island,  MA",42.32382965088,-70.964767456055
+3567,BOSTON CITY SHELTER Long Island ,"Long Island Hospital Long Island, Massachusetts 11101",42.32382965088,-70.964767456055
 3568,Shattuck Shelter Jamaica Plain Massachusetts,"170 Morton Street Jamaica Plain, Massachusetts 02130",42.29943466000,-71.102630600000
 3569,CATHOLIC CHARITIES St. Ambrose Family Inn Dorchester Massachusett,"25 Leonard Street Dorchester, Massachusett 02122",42.30146408081,-71.058746337891
 3570,KIT CLARK SENIOR SERVICES Dorchester Massachusetts,"1500 Dorchester Avenue Dorchester, Massachusetts 02122",42.29959487915,-71.060188293457
@@ -3595,7 +3595,7 @@ Sam House Men's Shelter Waretown New Jersey","367 Route 9 Waretown, New Jersey 0
 3592,Friendly House Shelter Worcester Massachusetts,"36 Wall St Worcester, Massachusetts 01604",42.25852130000,-71.785632000000
 3593,Laura's Shelter House Worcester Massachusetts,"41 columbia st Worcester, Massachusetts 01604",42.25465393000,-71.793853700000
 3594,DayBreak YWCA Worcester Massachusetts,"P.O. Box 3093 Worcester, Massachusetts 01613",42.26620483000,-71.795051500000
-3595,"Visitation House, Inc.  Worcester ","119 Endicott Street Worcester,  01610",42.25047350000,-71.796887670000
+3595,"Visitation House, Inc.  Worcester ","119 Endicott Street Worcester, Massachusetts 01610",42.25047350000,-71.796887670000
 3596,Ywca Transitional Housing Program Worcester Massachusetts,"1 Salem Square Worcester, Massachusetts 01608",42.26121140000,-71.799957200000
 3597,Abby's House Worcester Massachusetts,"52 High St Worcester, Massachusetts 01609",42.26136000000,-71.805100000000
 3598,Queen Street Shelter Worcester - SMOC  Worcester Massachusetts,"25 Queen St Worcester, Massachusetts 01610",42.25904000000,-71.813220000000
@@ -3645,7 +3645,7 @@ Sam House Men's Shelter Waretown New Jersey","367 Route 9 Waretown, New Jersey 0
 3642,DAYSTAR PROGRAM Hyannis Massachusetts,"100 North Street Hyannis, Massachusetts 02601",41.65306091309,-70.286834716797
 3643,SAFE HARBOR Hyannis Massachusetts,"7 Summerside Lane Hyannis, Massachusetts 02601",41.64591217041,-70.290969848633
 3644,Harwich Ecumenical Council for the Homeless West Harwich Maine,"120 Route 28, 3rd Floor West Harwich, Maine 02671",41.66937690000,-70.111647000000
-3645,Angel House Family Shelter Hyannis  ,"460 West Main Street Hyannis ,  02601",41.65035870000,-70.312714000000
+3645,Angel House Family Shelter Hyannis  ,"460 West Main Street Hyannis, Massachusetts 02601",41.65035870000,-70.312714000000
 3646,TENANCY AND INDEPENDENCE PROGRAM Hyannis Massachusetts,"460 West Main Street Hyannis, Massachusetts 02601",41.64992904663,-70.312751770020
 3647,Village at Cataumet Family Shelter Cataumet Massachusetts,"address not disclosed Cataumet, Massachusetts ",41.66617990000,-70.612756500000
 3648,Carriage House Shelter North Falmouth Massachusetts,"294 Old Main Road North Falmouth, Massachusetts 02556",41.65037537000,-70.616508400000
@@ -3664,7 +3664,7 @@ Sam House Men's Shelter Waretown New Jersey","367 Route 9 Waretown, New Jersey 0
 3661,Welcome House of South County Emergency Shelter Peace Dale Rhode Island,"8 North Road  Peace Dale, Rhode Island 02883",41.45209503174,-71.496948242188
 3662,Welcome House of South County Emergency Shelter Peace Dale Rhode Island,"8 North Road  Peace Dale, Rhode Island 02883",41.45209503174,-71.496948242188
 3663,WOMEN'S RESOURCE CENTER OF SOUTH COUNTY Wakefield Rhode Island,"61 Main Street Wakefield, Rhode Island 02879",41.44141769409,-71.490715026855
-3664,Keene Family Shelter Keene New Hampshire,"Elm Street Keene, New Hampshire ",42.95041656494,-72.284736633301
+3664,Keene Family Shelter Keene New Hampshire,"Elm Street Keene, New Hampshire 03431",42.95041656494,-72.284736633301
 3665,Bartons Crossing Emergency (BCAC) Pittsfield Massachusetts,"1307 North Street Pittsfield, Massachusetts 01201",42.48023223877,-73.246139526367
 3666,WINCHESTER EMERGENCY SHELTER Winchester Connecticut,"480 Main St Winchester, Connecticut 06098",41.92108917236,-73.073272705078
 3667,Turner House Living Center for Veterans Williamstown Massachusetts,"825 Simonds Road Williamstown, Massachusetts 01267",42.73453140259,-73.206161499023
@@ -3685,17 +3685,17 @@ Sam House Men's Shelter Waretown New Jersey","367 Route 9 Waretown, New Jersey 0
 3682,St. Vincent de Paul Mission Shelter Bristol Connecticut,"19 Jacobs St Bristol, Connecticut 06010",41.67451477051,-72.950874328613
 3683,State of CT Social Services Department New Britain New Britain Connecticut,"30 Christian Lane New Britain, Connecticut 06051",41.65184783936,-72.752227783203
 3684,Shelter NOW Meriden Connecticut,"43 St. Casimir Dr Meriden, Connecticut 06450",41.53620148000,-72.800651500000
-3685,St. Vincent de Paul Middletown Middletown ,"617 Main Street Middletown,  06457",41.56429880000,-72.652337000000
+3685,St. Vincent de Paul Middletown Middletown ,"617 Main Street Middletown, Connecticut 06457",41.56429880000,-72.652337000000
 3686,American Red Cross Family Shelter Middletown Connecticut,"MIDDLESEX COUNTY Middletown, Connecticut ",41.56232070923,-72.650650024414
 3687,Red Cross Middlesex County Emergency Family Shelter Middletown Connecticut,"Confidential Address Middletown, Connecticut 06457",41.56232070923,-72.650650024414
 3688,State of CT Social Services Office Middletown Middletown Connecticut,"117 Main Street Extension Middletown, Connecticut 06457",41.55311584473,-72.644821166992
-3689,"Home of Hope, Inc. Waterbury ","140 Willow Street Waterbury,  06710",41.56169100000,-73.047098000000
+3689,"Home of Hope, Inc. Waterbury ","140 Willow Street Waterbury, Connecticut 06710",41.56169100000,-73.047098000000
 3690,"SALVATION ARMY - SOUTHERN NEW ENGLAND DIVISION, EMERGENCY SHELTER FOR FAMILIES Waterbury Connecticut","74 Central Ave Waterbury, Connecticut 06702",41.55924224854,-73.043266296387
 3691,Safe Haven of Greater Waterbury Waterbury Connecticut,"29 Central Ave. Waterbury, Connecticut 06702",41.55810928345,-73.043945312500
 3692,St. Vincent De Paul Mission of Waterbury - Shelter Waterbury Connecticut,"114 Benedict St Waterbury, Connecticut 06706",41.54866791000,-73.040740900000
-3693,Eddy Shelter The Connection Inc Middletown ,"1 Labella Circle Middletown,  06457",41.53228378296,-72.658569335938
+3693,Eddy Shelter The Connection Inc Middletown ,"1 Labella Circle Middletown, Connecticut 06457",41.53228378296,-72.658569335938
 3694,Wallingford Emergency Shelter Wallingford Connecticut,"123 Quinnipiac Street Wallingford, Connecticut 06492",41.45680618286,-72.826805114746
-3695,City of Norwich No Freeze Shelter Norwich Connecticut,"80 Broadway, City Hall Annex Norwich, Connecticut 06360",41.52426528931,-72.075912475586
+3695,City of Norwich No Freeze Shelter Norwich Connecticut,"80 Broadway City Hall Annex Norwich, Connecticut 06360",41.52426528931,-72.075912475586
 3696,TVCCA Shelter Norwich Connecticut,"401 West Thames Street, Unit 201 Norwich, Connecticut 06360",41.50648498535,-72.088073730469
 3697,State of CT Social Services Norwich CT Norwich Connecticut,"401 West Thames Street Suite 102 Norwich, Connecticut 06360",41.50586318970,-72.095291137695
 3698,Bridge House Shelter Plymouth New Hampshire,"260 Highland St Plymouth, New Hampshire 03264",43.76345443726,-71.708892822266
@@ -3747,5 +3747,5 @@ Sam House Men's Shelter Waretown New Jersey","367 Route 9 Waretown, New Jersey 0
 3744,"IHS, The Institute for Human Services Honolulu Hawaii","546 Ka'aahi Street Honolulu, Hawaii 96817",21.31776619000,-157.866134000000
 3745,Next Step Shelter Honolulu Hawaii,"Pier 1 off Forrest Avenue in the Kaka'ako area Honolulu, Hawaii 96808",21.30694440000,-157.858333000000
 3746,Family Promise of Hawaii Kailua Hawaii,"69 N. Kainalu Drive Kailua, Hawaii 96734",21.39856529236,-157.740463256836
-3747,Keolahou Shelter Hilo Hawaii,"357 Waianuenue Avenue Hilo, Hawaii ",19.72374900000,-155.091189000000
-3748,Ka Hale A Ke Ola Wailuku Hawaii,670 Waiale Road ,20.89111110000,-156.504722200000
+3747,Keolahou Shelter Hilo Hawaii,"357 Waianuenue Avenue Hilo, Hawaii 96720",19.72374900000,-155.091189000000
+3748,Ka Hale A Ke Ola Wailuku Hawaii,"670 Waiale Road Wailuku, Hawaii 96793",20.89111110000,-156.504722200000
